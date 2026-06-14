@@ -1,0 +1,20 @@
+# Swiftie13Daily — project context
+
+What this is: an unofficial Taylor Swift fan page on Instagram
+(@swiftie13daily) that posts one quiz every day. Long-term goal: grow it
+into a full Swiftie quiz website with badges and certificates.
+
+Voice: playful, warm, fandom-fluent. Uses Swiftie language naturally
+(eras, vault, track five, easter eggs, 13). Never cringe, never clickbait.
+
+Hard rules:
+- Never quote song lyrics. Paraphrase or refer to songs by title only.
+- Never post about her personal life, relationships, or rumors.
+- Always include "unofficial fan page" framing where relevant.
+- Only post queue items marked approved: true.
+
+Key files:
+- content/queue.json — upcoming quizzes (only approved ones get posted)
+- content/history.json — everything already posted (never repeat these)
+- main.py --render-only — renders today's card + caption
+- log.md — one line per day about what happened
