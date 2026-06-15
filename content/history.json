@@ -123,5 +123,20 @@
     "approved": true,
     "posted": true,
     "post_number": 2
+  },
+  {
+    "question": "What was Taylor Swift's very first single?",
+    "options": [
+      "Love Story",
+      "Tim McGraw",
+      "Our Song",
+      "Teardrops on My Guitar"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "She wrote Tim McGraw during math class as a freshman in high school, imagining the summer romance she was about to leave behind.",
+    "approved": true,
+    "posted": "2026-06-15"
   }
 ]
