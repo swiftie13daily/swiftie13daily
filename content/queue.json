@@ -1,19 +1,5 @@
 [
   {
-    "question": "How many times has Taylor Swift won Album of the Year at the Grammys?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer_index": 2,
-    "era": "ttpd",
-    "difficulty": "medium",
-    "fun_fact": "No other artist in Grammy history has won Album of the Year four times \u2014 Fearless, 1989, folklore, and Midnights.",
-    "approved": true
-  },
-  {
     "question": "What does 'TV' stand for on Taylor Swift's re-recorded albums?",
     "options": [
       "Taylor's Victory",

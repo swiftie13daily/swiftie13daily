@@ -138,5 +138,20 @@
     "fun_fact": "She wrote Tim McGraw during math class as a freshman in high school, imagining the summer romance she was about to leave behind.",
     "approved": true,
     "posted": "2026-06-15"
+  },
+  {
+    "question": "How many times has Taylor Swift won Album of the Year at the Grammys?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer_index": 2,
+    "era": "ttpd",
+    "difficulty": "medium",
+    "fun_fact": "No other artist in Grammy history has won Album of the Year four times \u2014 Fearless, 1989, folklore, and Midnights.",
+    "approved": true,
+    "posted": "2026-06-15"
   }
 ]
