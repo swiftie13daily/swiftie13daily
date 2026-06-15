@@ -1,0 +1,100 @@
+[
+  {
+    "question": "What was Taylor Swift's debut single, released in June 2006?",
+    "options": [
+      "Love Story",
+      "Tim McGraw",
+      "Teardrops on My Guitar",
+      "Our Song"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "Tim McGraw was written by Taylor about her then-boyfriend before she left for Nashville, inspired by fear of being forgotten.",
+    "approved": false
+  },
+  {
+    "question": "Which Taylor Swift album was written entirely by her alone, with no co-writers?",
+    "options": [
+      "Fearless",
+      "Red",
+      "Speak Now",
+      "folklore"
+    ],
+    "answer_index": 2,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "Taylor wrote all 14 tracks on Speak Now solo, a deliberate response to critics who questioned her songwriting ability.",
+    "approved": false
+  },
+  {
+    "question": "How many tracks are on 'Red (Taylor's Version)'?",
+    "options": [
+      "20 tracks",
+      "25 tracks",
+      "30 tracks",
+      "35 tracks"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Red (TV) includes the iconic 10-minute version of All Too Well, widely considered one of Taylor's greatest songwriting achievements.",
+    "approved": false
+  },
+  {
+    "question": "Which artist features on Taylor Swift's 'evermore' title track?",
+    "options": [
+      "Bon Iver",
+      "HAIM",
+      "The National",
+      "Phoebe Bridgers"
+    ],
+    "answer_index": 0,
+    "era": "evermore",
+    "difficulty": "medium",
+    "fun_fact": "Justin Vernon (Bon Iver) also collaborated with Taylor on 'exile' from folklore, making him a frequent sister-album collaborator.",
+    "approved": false
+  },
+  {
+    "question": "How many tracks are on the standard edition of Taylor Swift's 'Midnights'?",
+    "options": [
+      "10 tracks",
+      "13 tracks",
+      "16 tracks",
+      "20 tracks"
+    ],
+    "answer_index": 1,
+    "era": "midnights",
+    "difficulty": "easy",
+    "fun_fact": "The number 13 \u2014 Taylor's lucky number \u2014 was no coincidence for the standard Midnights track count.",
+    "approved": false
+  },
+  {
+    "question": "What is the name of Taylor Swift's 7th studio album, released in August 2019?",
+    "options": [
+      "reputation",
+      "folklore",
+      "Lover",
+      "evermore"
+    ],
+    "answer_index": 2,
+    "era": "lover",
+    "difficulty": "easy",
+    "fun_fact": "Lover's music video was co-directed by Taylor herself, and the title track is widely considered one of her most romantic songs.",
+    "approved": false
+  },
+  {
+    "question": "Which Taylor Swift album features the longest official music video runtime, for the 'All Too Well' short film?",
+    "options": [
+      "Red (Taylor's Version)",
+      "1989",
+      "reputation",
+      "folklore"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "hard",
+    "fun_fact": "The All Too Well short film starring Dylan O'Brien and Sadie Sink runs 15 minutes and was written and directed by Taylor.",
+    "approved": false
+  }
+]

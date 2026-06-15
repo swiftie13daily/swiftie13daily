@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Which era features the song 'Enchanted', later re-recorded for Taylor's Version?",
+    "options": ["Fearless", "Speak Now", "Red", "1989"],
+    "answer_index": 1,
+    "era": "speak_now",
+    "difficulty": "easy",
+    "fun_fact": "Enchanted is widely believed to be written about musician Adam Young of Owl City, who later recorded a heartfelt response version.",
+    "approved": false
+  },
+  {
+    "question": "Which Taylor Swift re-recording (Taylor's Version) was released first?",
+    "options": ["Red (TV)", "Fearless (TV)", "Speak Now (TV)", "1989 (TV)"],
+    "answer_index": 1,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "Fearless (Taylor's Version) dropped April 9, 2021, kicking off Taylor's mission to own her re-recorded masters.",
+    "approved": false
+  },
+  {
+    "question": "What animal became the defining symbol of Taylor Swift's 'reputation' era?",
+    "options": ["Cat", "Snake", "Butterfly", "Crow"],
+    "answer_index": 1,
+    "era": "reputation",
+    "difficulty": "easy",
+    "fun_fact": "The snake imagery reclaimed a 2016 media narrative, and Taylor fully leaned in — snakes appeared everywhere from stage props to merch.",
+    "approved": false
+  },
+  {
+    "question": "Which Taylor Swift album was announced and released within 24 hours as a surprise drop?",
+    "options": ["evermore", "Midnights", "folklore", "TTPD"],
+    "answer_index": 2,
+    "era": "folklore",
+    "difficulty": "medium",
+    "fun_fact": "folklore was announced on July 23, 2020 and released the very next day, stunning fans and debuting at #1 worldwide.",
+    "approved": false
+  },
+  {
+    "question": "What is the opening track of Taylor Swift's '1989' album?",
+    "options": ["Shake It Off", "Style", "Welcome to New York", "Blank Space"],
+    "answer_index": 2,
+    "era": "1989",
+    "difficulty": "medium",
+    "fun_fact": "Welcome to New York opens 1989 as a love letter to NYC, where Taylor had recently moved when making the album.",
+    "approved": false
+  },
+  {
+    "question": "What is the subtitle of Taylor Swift's double-length April 2024 album release?",
+    "options": ["The Black Dog Edition", "The Anthology", "The Bolter Edition", "The Manuscript Edition"],
+    "answer_index": 1,
+    "era": "ttpd",
+    "difficulty": "hard",
+    "fun_fact": "The Anthology surprise-dropped hours after TTPD, doubling the track count from 16 to 31 songs total.",
+    "approved": false
+  },
+  {
+    "question": "Which Taylor Swift album features the song 'Death By A Thousand Cuts'?",
+    "options": ["reputation", "Lover", "folklore", "Midnights"],
+    "answer_index": 1,
+    "era": "lover",
+    "difficulty": "hard",
+    "fun_fact": "Death By A Thousand Cuts was inspired by the film Someone Great and was included on the Lover album released in 2019.",
+    "approved": false
+  }
+]
