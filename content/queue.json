@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which album was the first Taylor Swift re-released as 'Taylor's Version'?",
-    "options": [
-      "Red",
-      "Fearless",
-      "1989",
-      "Speak Now"
-    ],
-    "answer_index": 1,
-    "era": "fearless",
-    "difficulty": "medium",
-    "fun_fact": "Fearless (Taylor's Version) debuted at #1 in April 2021, making Taylor the first artist to top the charts with a re-recording of their own album.",
-    "approved": true
-  },
-  {
     "question": "Taylor Swift's 'evermore' arrived how many months after 'folklore'?",
     "options": [
       "2 months",

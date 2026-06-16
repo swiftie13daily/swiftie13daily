@@ -228,5 +228,20 @@
     "fun_fact": "Speak Now is one of the only major pop albums to be written entirely solo \u2014 Taylor wrote all 14 tracks without a single co-writer.",
     "approved": true,
     "posted": "2026-06-16"
+  },
+  {
+    "question": "Which album was the first Taylor Swift re-released as 'Taylor's Version'?",
+    "options": [
+      "Red",
+      "Fearless",
+      "1989",
+      "Speak Now"
+    ],
+    "answer_index": 1,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "Fearless (Taylor's Version) debuted at #1 in April 2021, making Taylor the first artist to top the charts with a re-recording of their own album.",
+    "approved": true,
+    "posted": "2026-06-16"
   }
 ]
