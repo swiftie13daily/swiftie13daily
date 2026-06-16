@@ -1,19 +1,5 @@
 [
   {
-    "question": "What does 'TV' stand for on Taylor Swift's re-recorded albums?",
-    "options": [
-      "Taylor's Victory",
-      "Taylor's Version",
-      "Taylor's Vault",
-      "Taylor's Vocals"
-    ],
-    "answer_index": 1,
-    "era": "reputation",
-    "difficulty": "easy",
-    "fun_fact": "Taylor began re-recording her first six albums after her former label sold the masters without giving her the option to buy them.",
-    "approved": true
-  },
-  {
     "question": "Which era is defined by snake imagery and an all-black aesthetic?",
     "options": [
       "Midnights",

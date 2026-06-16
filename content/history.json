@@ -153,5 +153,20 @@
     "fun_fact": "No other artist in Grammy history has won Album of the Year four times \u2014 Fearless, 1989, folklore, and Midnights.",
     "approved": true,
     "posted": "2026-06-15"
+  },
+  {
+    "question": "What does 'TV' stand for on Taylor Swift's re-recorded albums?",
+    "options": [
+      "Taylor's Victory",
+      "Taylor's Version",
+      "Taylor's Vault",
+      "Taylor's Vocals"
+    ],
+    "answer_index": 1,
+    "era": "reputation",
+    "difficulty": "easy",
+    "fun_fact": "Taylor began re-recording her first six albums after her former label sold the masters without giving her the option to buy them.",
+    "approved": true,
+    "posted": "2026-06-16"
   }
 ]
