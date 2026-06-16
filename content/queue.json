@@ -1,19 +1,5 @@
 [
   {
-    "question": "What color is most associated with the 'Speak Now' era?",
-    "options": [
-      "Red",
-      "Blue",
-      "Gold",
-      "Purple"
-    ],
-    "answer_index": 3,
-    "era": "speak_now",
-    "difficulty": "medium",
-    "fun_fact": "Speak Now is one of the only major pop albums to be written entirely solo \u2014 Taylor wrote all 14 tracks without a single co-writer.",
-    "approved": true
-  },
-  {
     "question": "Which album was the first Taylor Swift re-released as 'Taylor's Version'?",
     "options": [
       "Red",
