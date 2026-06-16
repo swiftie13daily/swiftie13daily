@@ -183,5 +183,20 @@
     "fun_fact": "After being called a snake online in 2016, Taylor reclaimed the symbol and opened her reputation Stadium Tour with giant inflatable snakes.",
     "approved": true,
     "posted": "2026-06-16"
+  },
+  {
+    "question": "Taylor Swift's record-breaking stadium tour that began in 2023 is called what?",
+    "options": [
+      "The Fearless Tour",
+      "The Eras Tour",
+      "The Reputation Stadium Tour",
+      "The Lover Fest"
+    ],
+    "answer_index": 1,
+    "era": "ttpd",
+    "difficulty": "easy",
+    "fun_fact": "The Eras Tour became the first concert tour in history to gross over $1 billion, shattering previous records.",
+    "approved": true,
+    "posted": "2026-06-16"
   }
 ]

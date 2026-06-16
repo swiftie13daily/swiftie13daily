@@ -1,19 +1,5 @@
 [
   {
-    "question": "Taylor Swift's record-breaking stadium tour that began in 2023 is called what?",
-    "options": [
-      "The Fearless Tour",
-      "The Eras Tour",
-      "The Reputation Stadium Tour",
-      "The Lover Fest"
-    ],
-    "answer_index": 1,
-    "era": "ttpd",
-    "difficulty": "easy",
-    "fun_fact": "The Eras Tour became the first concert tour in history to gross over $1 billion, shattering previous records.",
-    "approved": true
-  },
-  {
     "question": "Which Taylor Swift song held #1 on the Billboard Hot 100 for 8 weeks straight?",
     "options": [
       "Shake It Off",
