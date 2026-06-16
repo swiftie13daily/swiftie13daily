@@ -198,5 +198,20 @@
     "fun_fact": "The Eras Tour became the first concert tour in history to gross over $1 billion, shattering previous records.",
     "approved": true,
     "posted": "2026-06-16"
+  },
+  {
+    "question": "Which Taylor Swift song held #1 on the Billboard Hot 100 for 8 weeks straight?",
+    "options": [
+      "Shake It Off",
+      "Blank Space",
+      "Anti-Hero",
+      "Love Story"
+    ],
+    "answer_index": 2,
+    "era": "midnights",
+    "difficulty": "medium",
+    "fun_fact": "Anti-Hero also broke the record for the most weeks at #1 by a female artist at the time of its release in 2022.",
+    "approved": true,
+    "posted": "2026-06-16"
   }
 ]
