@@ -48,6 +48,7 @@ def publish_image(image_path_or_url: str, caption: str) -> str:
     else:
         image_url = image_path_or_url
 
+    print(f"Posting image URL: {image_url}")
     r = requests.post(
         f"{_base()}/media",
         data={
@@ -57,6 +58,8 @@ def publish_image(image_path_or_url: str, caption: str) -> str:
         },
         timeout=60,
     )
+    if not r.ok:
+        print(f"Media container error {r.status_code}: {r.text}")
     r.raise_for_status()
     container_id = r.json()["id"]
     print(f"Container created: {container_id}")
