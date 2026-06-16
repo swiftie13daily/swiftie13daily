@@ -168,5 +168,20 @@
     "fun_fact": "Taylor began re-recording her first six albums after her former label sold the masters without giving her the option to buy them.",
     "approved": true,
     "posted": "2026-06-16"
+  },
+  {
+    "question": "Which era is defined by snake imagery and an all-black aesthetic?",
+    "options": [
+      "Midnights",
+      "Red",
+      "reputation",
+      "evermore"
+    ],
+    "answer_index": 2,
+    "era": "reputation",
+    "difficulty": "easy",
+    "fun_fact": "After being called a snake online in 2016, Taylor reclaimed the symbol and opened her reputation Stadium Tour with giant inflatable snakes.",
+    "approved": true,
+    "posted": "2026-06-16"
   }
 ]
