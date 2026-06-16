@@ -38,9 +38,13 @@ def publish_image(image_path_or_url: str, caption: str) -> str:
     if not (config.IG_USER_ID and config.IG_ACCESS_TOKEN):
         raise RuntimeError("IG_USER_ID / IG_ACCESS_TOKEN not set — see .env.example")
 
-    # If it's a local file path, upload to imgbb first
+    # If it's a local file path, resolve to a public URL
     if not image_path_or_url.startswith("http"):
-        image_url = _upload_to_imgbb(image_path_or_url)
+        if config.REPO_RAW_BASE:
+            # Use raw GitHub URL (workflow commits PNG before calling this)
+            image_url = f"{config.REPO_RAW_BASE}/{image_path_or_url}"
+        else:
+            image_url = _upload_to_imgbb(image_path_or_url)
     else:
         image_url = image_path_or_url
 
