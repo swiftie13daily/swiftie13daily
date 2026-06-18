@@ -1,19 +1,5 @@
 [
   {
-    "question": "Taylor Swift's 'evermore' arrived how many months after 'folklore'?",
-    "options": [
-      "2 months",
-      "5 months",
-      "8 months",
-      "12 months"
-    ],
-    "answer_index": 1,
-    "era": "evermore",
-    "difficulty": "medium",
-    "fun_fact": "Taylor described evermore as folklore's sister album \u2014 a companion she never planned to make but felt compelled to write.",
-    "approved": true
-  },
-  {
     "question": "Before Nashville, Taylor Swift grew up in which city?",
     "options": [
       "New York City",
