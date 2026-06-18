@@ -258,5 +258,20 @@
     "fun_fact": "Taylor described evermore as folklore's sister album \u2014 a companion she never planned to make but felt compelled to write.",
     "approved": true,
     "posted": "2026-06-18"
+  },
+  {
+    "question": "Before Nashville, Taylor Swift grew up in which city?",
+    "options": [
+      "New York City",
+      "Wyomissing, Pennsylvania",
+      "Los Angeles",
+      "Reading, Pennsylvania"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "hard",
+    "fun_fact": "Taylor moved to Nashville at age 14, eventually becoming the youngest artist ever signed to Sony/ATV Music Publishing.",
+    "approved": true,
+    "posted": "2026-06-18"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "question": "Before Nashville, Taylor Swift grew up in which city?",
-    "options": [
-      "New York City",
-      "Wyomissing, Pennsylvania",
-      "Los Angeles",
-      "Reading, Pennsylvania"
-    ],
-    "answer_index": 1,
-    "era": "debut",
-    "difficulty": "hard",
-    "fun_fact": "Taylor moved to Nashville at age 14, eventually becoming the youngest artist ever signed to Sony/ATV Music Publishing.",
-    "approved": true
-  },
-  {
     "question": "Which song from 'Red (Taylor's Version)' was released in a 10-minute version?",
     "options": [
       "State of Grace",
