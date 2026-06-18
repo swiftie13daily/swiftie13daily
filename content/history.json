@@ -273,5 +273,20 @@
     "fun_fact": "Taylor moved to Nashville at age 14, eventually becoming the youngest artist ever signed to Sony/ATV Music Publishing.",
     "approved": true,
     "posted": "2026-06-18"
+  },
+  {
+    "question": "Which song from 'Red (Taylor's Version)' was released in a 10-minute version?",
+    "options": [
+      "State of Grace",
+      "All Too Well",
+      "Red",
+      "Holy Ground"
+    ],
+    "answer_index": 1,
+    "era": "red",
+    "difficulty": "easy",
+    "fun_fact": "The 10-minute version of All Too Well was accompanied by a short film written and directed by Taylor herself, starring Sadie Sink.",
+    "approved": true,
+    "posted": "2026-06-18"
   }
 ]
