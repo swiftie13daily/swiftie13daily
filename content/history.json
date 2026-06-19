@@ -333,5 +333,20 @@
     "fun_fact": "Taylor wrote 'The Best Day' as a surprise for her mom Andrea, who heard it for the first time in the car and burst into tears.",
     "approved": true,
     "posted": "2026-06-19"
+  },
+  {
+    "question": "What instrument did Taylor Swift learn first?",
+    "options": [
+      "Piano",
+      "Guitar",
+      "Banjo",
+      "Ukulele"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "medium",
+    "fun_fact": "Taylor learned guitar from a local musician at age 12, and within months was writing her own songs.",
+    "approved": true,
+    "posted": "2026-06-19"
   }
 ]
