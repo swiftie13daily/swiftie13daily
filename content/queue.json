@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "question": "Which Taylor Swift song features the lyric 'I had the best day with you today'?",
+    "options": [
+      "The Best Day",
+      "Long Live",
+      "Never Grow Up",
+      "Ronan"
+    ],
+    "answer_index": 0,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "Taylor wrote 'The Best Day' as a surprise for her mom Andrea, who heard it for the first time in the car and burst into tears.",
+    "approved": true
+  },
+  {
+    "question": "What instrument did Taylor Swift learn first?",
+    "options": [
+      "Piano",
+      "Guitar",
+      "Banjo",
+      "Ukulele"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "medium",
+    "fun_fact": "Taylor learned guitar from a local musician at age 12, and within months was writing her own songs.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift album features the bonus track 'You All Over Me'?",
+    "options": [
+      "Red (TV)",
+      "Fearless (TV)",
+      "Speak Now (TV)",
+      "1989 (TV)"
+    ],
+    "answer_index": 1,
+    "era": "fearless",
+    "difficulty": "hard",
+    "fun_fact": "Taylor described 'You All Over Me' as one of her favourite vault tracks \u2014 she co-wrote it with Maren Morris.",
+    "approved": true
+  },
+  {
+    "question": "In 'Love Story', where does Romeo find Juliet?",
+    "options": [
+      "At a ball",
+      "On a balcony",
+      "In a garden",
+      "On a staircase"
+    ],
+    "answer_index": 3,
+    "era": "fearless",
+    "difficulty": "hard",
+    "fun_fact": "Taylor wrote 'Love Story' in about 20 minutes in her bedroom, inspired by a relationship her parents disapproved of.",
+    "approved": true
+  },
+  {
+    "question": "Which album contains Taylor Swift's song 'Cruel Summer'?",
+    "options": [
+      "Reputation",
+      "1989",
+      "Lover",
+      "Midnights"
+    ],
+    "answer_index": 2,
+    "era": "lover",
+    "difficulty": "easy",
+    "fun_fact": "Despite being a fan favourite since 2019, 'Cruel Summer' only became a #1 hit in 2023 thanks to the Eras Tour setlist.",
+    "approved": true
+  },
+  {
+    "question": "How many tracks are on Taylor Swift's 'The Tortured Poets Department: The Anthology'?",
+    "options": [
+      "16",
+      "24",
+      "31",
+      "27"
+    ],
+    "answer_index": 2,
+    "era": "ttpd",
+    "difficulty": "hard",
+    "fun_fact": "Taylor surprise-dropped a second half of TTPD just hours after the original 16-track album, bringing the total to 31 songs.",
+    "approved": true
+  },
+  {
+    "question": "Which city does Taylor Swift call her 'hometown' in 'Welcome to New York'?",
+    "options": [
+      "Nashville",
+      "New York City",
+      "Los Angeles",
+      "Philadelphia"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "easy",
+    "fun_fact": "Taylor moved to New York City in 2014 and donated the song's proceeds to NYC public schools.",
+    "approved": true
+  },
+  {
+    "question": "What colour is associated with the 'Lover' era?",
+    "options": [
+      "Red",
+      "Blue",
+      "Pastel pink and blue",
+      "Gold"
+    ],
+    "answer_index": 2,
+    "era": "lover",
+    "difficulty": "easy",
+    "fun_fact": "The Lover era aesthetic was inspired by Taylor's relationship with Joe Alwyn \u2014 she described it as 'being in love in a dramatic way'.",
+    "approved": true
+  },
+  {
+    "question": "Which folklore track is part of the 'teenage love triangle' trilogy?",
+    "options": [
+      "exile",
+      "august",
+      "seven",
+      "illicit affairs"
+    ],
+    "answer_index": 1,
+    "era": "folklore",
+    "difficulty": "medium",
+    "fun_fact": "Taylor confirmed that 'cardigan', 'august', and 'betty' all tell the same love triangle story from three different perspectives.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift song did she write entirely alone for 'Speak Now'?",
+    "options": [
+      "Back to December",
+      "Mean",
+      "The Story of Us",
+      "All of them"
+    ],
+    "answer_index": 3,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "Speak Now is unique in Taylor's discography \u2014 she wrote all 14 original tracks by herself without a single co-writer.",
+    "approved": true
+  },
+  {
+    "question": "Who directed the 'Anti-Hero' music video?",
+    "options": [
+      "Joseph Kahn",
+      "Taylor Swift",
+      "Dave Meyers",
+      "Jonas \u00c5kerlund"
+    ],
+    "answer_index": 1,
+    "era": "midnights",
+    "difficulty": "medium",
+    "fun_fact": "Taylor has directed several of her own music videos, including 'Anti-Hero', showcasing her creative vision beyond music.",
+    "approved": true
+  },
+  {
+    "question": "What does Taylor Swift call her devoted fanbase?",
+    "options": [
+      "Swifties",
+      "The Swifters",
+      "Fearless Fans",
+      "13ers"
+    ],
+    "answer_index": 0,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "The term 'Swifties' emerged organically from fans online in the mid-2000s and Taylor has fully embraced it.",
+    "approved": true
+  },
+  {
+    "question": "What year was Taylor Swift born?",
+    "options": [
+      "1988",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "Taylor was born on December 13, 1989 \u2014 she named her album '1989' after her birth year.",
+    "approved": true
+  },
+  {
+    "question": "Which song did Taylor perform at the 2009 VMAs before Kanye's interruption?",
+    "options": [
+      "Love Story",
+      "You Belong With Me",
+      "Fifteen",
+      "White Horse"
+    ],
+    "answer_index": 1,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "The 2009 VMA incident inspired Taylor to write 'Innocent', which she performed at the 2010 VMAs directly addressing Kanye.",
+    "approved": true
+  },
+  {
+    "question": "What is the opening track of 'The Tortured Poets Department'?",
+    "options": [
+      "Fortnight",
+      "The Tortured Poets Department",
+      "My Boy Only Breaks His Favorite Toys",
+      "So Long London"
+    ],
+    "answer_index": 0,
+    "era": "ttpd",
+    "difficulty": "medium",
+    "fun_fact": "'Fortnight' features Post Malone and was the lead single \u2014 it debuted at #1 in over 30 countries.",
+    "approved": true
+  },
+  {
+    "question": "How long is the extended version of 'All Too Well'?",
+    "options": [
+      "8 minutes",
+      "9 minutes",
+      "10 minutes",
+      "12 minutes"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "easy",
+    "fun_fact": "Fans had long requested the full version after learning a longer cut existed \u2014 Taylor finally released it with Red (TV) in 2021.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift song contains the lyric 'Long story short, I survived'?",
+    "options": [
+      "The 1",
+      "Long Story Short",
+      "Mirrorball",
+      "Champagne Problems"
+    ],
+    "answer_index": 1,
+    "era": "evermore",
+    "difficulty": "medium",
+    "fun_fact": "'Long Story Short' is widely interpreted as Taylor reflecting on the difficult 2016-2019 period of her life and career.",
+    "approved": true
+  },
+  {
+    "question": "Which actress starred in the 'All Too Well' short film?",
+    "options": [
+      "Zendaya",
+      "Florence Pugh",
+      "Sadie Sink",
+      "Millie Bobby Brown"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Sadie Sink, known for Stranger Things, plays 'Her' in the film opposite Dylan O'Brien. Taylor wrote and directed it herself.",
+    "approved": true
+  },
+  {
+    "question": "What does 'TTPD' stand for?",
+    "options": [
+      "The Taylor Poetry Department",
+      "The Tortured Poets Department",
+      "The Tragic Poets Department",
+      "The Taylor Poets Division"
+    ],
+    "answer_index": 1,
+    "era": "ttpd",
+    "difficulty": "easy",
+    "fun_fact": "Taylor announced TTPD while accepting her 13th Grammy for Midnights \u2014 the room erupted when she revealed the title.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift album was recorded in secret during the COVID-19 pandemic?",
+    "options": [
+      "Lover",
+      "folklore",
+      "TTPD",
+      "Midnights"
+    ],
+    "answer_index": 1,
+    "era": "folklore",
+    "difficulty": "easy",
+    "fun_fact": "folklore was surprise-announced with just 24 hours notice in July 2020 and released to universal critical acclaim.",
+    "approved": true
+  }
+]
