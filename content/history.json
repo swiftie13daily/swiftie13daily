@@ -303,5 +303,20 @@
     "fun_fact": "Taylor became the first artist in history to simultaneously hold the entire top 10 spots on the Billboard Hot 100 in a single week.",
     "approved": true,
     "posted": "2026-06-19"
+  },
+  {
+    "question": "Which Taylor Swift album includes the massive hit 'Shake It Off'?",
+    "options": [
+      "Red",
+      "1989",
+      "Lover",
+      "reputation"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "easy",
+    "fun_fact": "Shake It Off was Taylor's first song to debut at #1 on the Billboard Hot 100, marking her full transition into pop music.",
+    "approved": true,
+    "posted": "2026-06-19"
   }
 ]
