@@ -288,5 +288,20 @@
     "fun_fact": "The 10-minute version of All Too Well was accompanied by a short film written and directed by Taylor herself, starring Sadie Sink.",
     "approved": true,
     "posted": "2026-06-18"
+  },
+  {
+    "question": "On the night Midnights dropped, Taylor occupied the top how many spots on the Billboard Hot 100?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "13"
+    ],
+    "answer_index": 2,
+    "era": "midnights",
+    "difficulty": "hard",
+    "fun_fact": "Taylor became the first artist in history to simultaneously hold the entire top 10 spots on the Billboard Hot 100 in a single week.",
+    "approved": true,
+    "posted": "2026-06-19"
   }
 ]

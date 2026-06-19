@@ -1,19 +1,5 @@
 [
   {
-    "question": "On the night Midnights dropped, Taylor occupied the top how many spots on the Billboard Hot 100?",
-    "options": [
-      "5",
-      "8",
-      "10",
-      "13"
-    ],
-    "answer_index": 2,
-    "era": "midnights",
-    "difficulty": "hard",
-    "fun_fact": "Taylor became the first artist in history to simultaneously hold the entire top 10 spots on the Billboard Hot 100 in a single week.",
-    "approved": true
-  },
-  {
     "question": "Which Taylor Swift album includes the massive hit 'Shake It Off'?",
     "options": [
       "Red",
