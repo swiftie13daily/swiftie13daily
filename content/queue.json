@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Taylor Swift song features the lyric 'I had the best day with you today'?",
-    "options": [
-      "The Best Day",
-      "Long Live",
-      "Never Grow Up",
-      "Ronan"
-    ],
-    "answer_index": 0,
-    "era": "fearless",
-    "difficulty": "medium",
-    "fun_fact": "Taylor wrote 'The Best Day' as a surprise for her mom Andrea, who heard it for the first time in the car and burst into tears.",
-    "approved": true
-  },
-  {
     "question": "What instrument did Taylor Swift learn first?",
     "options": [
       "Piano",
