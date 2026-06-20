@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Taylor Swift album features the bonus track 'You All Over Me'?",
-    "options": [
-      "Red (TV)",
-      "Fearless (TV)",
-      "Speak Now (TV)",
-      "1989 (TV)"
-    ],
-    "answer_index": 1,
-    "era": "fearless",
-    "difficulty": "hard",
-    "fun_fact": "Taylor described 'You All Over Me' as one of her favourite vault tracks \u2014 she co-wrote it with Maren Morris.",
-    "approved": true
-  },
-  {
     "question": "In 'Love Story', where does Romeo find Juliet?",
     "options": [
       "At a ball",

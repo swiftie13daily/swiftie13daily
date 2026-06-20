@@ -348,5 +348,20 @@
     "fun_fact": "Taylor learned guitar from a local musician at age 12, and within months was writing her own songs.",
     "approved": true,
     "posted": "2026-06-19"
+  },
+  {
+    "question": "Which Taylor Swift album features the bonus track 'You All Over Me'?",
+    "options": [
+      "Red (TV)",
+      "Fearless (TV)",
+      "Speak Now (TV)",
+      "1989 (TV)"
+    ],
+    "answer_index": 1,
+    "era": "fearless",
+    "difficulty": "hard",
+    "fun_fact": "Taylor described 'You All Over Me' as one of her favourite vault tracks \u2014 she co-wrote it with Maren Morris.",
+    "approved": true,
+    "posted": "2026-06-20"
   }
 ]
