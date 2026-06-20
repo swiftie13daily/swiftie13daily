@@ -393,5 +393,20 @@
     "fun_fact": "Despite being a fan favourite since 2019, 'Cruel Summer' only became a #1 hit in 2023 thanks to the Eras Tour setlist.",
     "approved": true,
     "posted": "2026-06-20"
+  },
+  {
+    "question": "How many tracks are on Taylor Swift's 'The Tortured Poets Department: The Anthology'?",
+    "options": [
+      "16",
+      "24",
+      "31",
+      "27"
+    ],
+    "answer_index": 2,
+    "era": "ttpd",
+    "difficulty": "hard",
+    "fun_fact": "Taylor surprise-dropped a second half of TTPD just hours after the original 16-track album, bringing the total to 31 songs.",
+    "approved": true,
+    "posted": "2026-06-20"
   }
 ]

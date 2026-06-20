@@ -1,19 +1,5 @@
 [
   {
-    "question": "How many tracks are on Taylor Swift's 'The Tortured Poets Department: The Anthology'?",
-    "options": [
-      "16",
-      "24",
-      "31",
-      "27"
-    ],
-    "answer_index": 2,
-    "era": "ttpd",
-    "difficulty": "hard",
-    "fun_fact": "Taylor surprise-dropped a second half of TTPD just hours after the original 16-track album, bringing the total to 31 songs.",
-    "approved": true
-  },
-  {
     "question": "Which city does Taylor Swift call her 'hometown' in 'Welcome to New York'?",
     "options": [
       "Nashville",
