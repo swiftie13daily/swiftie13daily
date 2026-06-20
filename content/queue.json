@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which album contains Taylor Swift's song 'Cruel Summer'?",
-    "options": [
-      "Reputation",
-      "1989",
-      "Lover",
-      "Midnights"
-    ],
-    "answer_index": 2,
-    "era": "lover",
-    "difficulty": "easy",
-    "fun_fact": "Despite being a fan favourite since 2019, 'Cruel Summer' only became a #1 hit in 2023 thanks to the Eras Tour setlist.",
-    "approved": true
-  },
-  {
     "question": "How many tracks are on Taylor Swift's 'The Tortured Poets Department: The Anthology'?",
     "options": [
       "16",

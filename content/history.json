@@ -378,5 +378,20 @@
     "fun_fact": "Taylor wrote 'Love Story' in about 20 minutes in her bedroom, inspired by a relationship her parents disapproved of.",
     "approved": true,
     "posted": "2026-06-20"
+  },
+  {
+    "question": "Which album contains Taylor Swift's song 'Cruel Summer'?",
+    "options": [
+      "Reputation",
+      "1989",
+      "Lover",
+      "Midnights"
+    ],
+    "answer_index": 2,
+    "era": "lover",
+    "difficulty": "easy",
+    "fun_fact": "Despite being a fan favourite since 2019, 'Cruel Summer' only became a #1 hit in 2023 thanks to the Eras Tour setlist.",
+    "approved": true,
+    "posted": "2026-06-20"
   }
 ]
