@@ -1,19 +1,5 @@
 [
   {
-    "question": "In 'Love Story', where does Romeo find Juliet?",
-    "options": [
-      "At a ball",
-      "On a balcony",
-      "In a garden",
-      "On a staircase"
-    ],
-    "answer_index": 3,
-    "era": "fearless",
-    "difficulty": "hard",
-    "fun_fact": "Taylor wrote 'Love Story' in about 20 minutes in her bedroom, inspired by a relationship her parents disapproved of.",
-    "approved": true
-  },
-  {
     "question": "Which album contains Taylor Swift's song 'Cruel Summer'?",
     "options": [
       "Reputation",

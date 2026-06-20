@@ -363,5 +363,20 @@
     "fun_fact": "Taylor described 'You All Over Me' as one of her favourite vault tracks \u2014 she co-wrote it with Maren Morris.",
     "approved": true,
     "posted": "2026-06-20"
+  },
+  {
+    "question": "In 'Love Story', where does Romeo find Juliet?",
+    "options": [
+      "At a ball",
+      "On a balcony",
+      "In a garden",
+      "On a staircase"
+    ],
+    "answer_index": 3,
+    "era": "fearless",
+    "difficulty": "hard",
+    "fun_fact": "Taylor wrote 'Love Story' in about 20 minutes in her bedroom, inspired by a relationship her parents disapproved of.",
+    "approved": true,
+    "posted": "2026-06-20"
   }
 ]
