@@ -423,5 +423,20 @@
     "fun_fact": "Taylor moved to New York City in 2014 and donated the song's proceeds to NYC public schools.",
     "approved": true,
     "posted": "2026-06-21"
+  },
+  {
+    "question": "What colour is associated with the 'Lover' era?",
+    "options": [
+      "Red",
+      "Blue",
+      "Pastel pink and blue",
+      "Gold"
+    ],
+    "answer_index": 2,
+    "era": "lover",
+    "difficulty": "easy",
+    "fun_fact": "The Lover era aesthetic was inspired by Taylor's relationship with Joe Alwyn \u2014 she described it as 'being in love in a dramatic way'.",
+    "approved": true,
+    "posted": "2026-06-21"
   }
 ]

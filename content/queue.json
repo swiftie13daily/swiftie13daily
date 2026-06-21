@@ -1,19 +1,5 @@
 [
   {
-    "question": "What colour is associated with the 'Lover' era?",
-    "options": [
-      "Red",
-      "Blue",
-      "Pastel pink and blue",
-      "Gold"
-    ],
-    "answer_index": 2,
-    "era": "lover",
-    "difficulty": "easy",
-    "fun_fact": "The Lover era aesthetic was inspired by Taylor's relationship with Joe Alwyn \u2014 she described it as 'being in love in a dramatic way'.",
-    "approved": true
-  },
-  {
     "question": "Which folklore track is part of the 'teenage love triangle' trilogy?",
     "options": [
       "exile",
