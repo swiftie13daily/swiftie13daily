@@ -453,5 +453,20 @@
     "fun_fact": "Taylor confirmed that 'cardigan', 'august', and 'betty' all tell the same love triangle story from three different perspectives.",
     "approved": true,
     "posted": "2026-06-21"
+  },
+  {
+    "question": "Which Taylor Swift song did she write entirely alone for 'Speak Now'?",
+    "options": [
+      "Back to December",
+      "Mean",
+      "The Story of Us",
+      "All of them"
+    ],
+    "answer_index": 3,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "Speak Now is unique in Taylor's discography \u2014 she wrote all 14 original tracks by herself without a single co-writer.",
+    "approved": true,
+    "posted": "2026-06-21"
   }
 ]
