@@ -438,5 +438,20 @@
     "fun_fact": "The Lover era aesthetic was inspired by Taylor's relationship with Joe Alwyn \u2014 she described it as 'being in love in a dramatic way'.",
     "approved": true,
     "posted": "2026-06-21"
+  },
+  {
+    "question": "Which folklore track is part of the 'teenage love triangle' trilogy?",
+    "options": [
+      "exile",
+      "august",
+      "seven",
+      "illicit affairs"
+    ],
+    "answer_index": 1,
+    "era": "folklore",
+    "difficulty": "medium",
+    "fun_fact": "Taylor confirmed that 'cardigan', 'august', and 'betty' all tell the same love triangle story from three different perspectives.",
+    "approved": true,
+    "posted": "2026-06-21"
   }
 ]
