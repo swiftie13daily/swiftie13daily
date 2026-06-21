@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which city does Taylor Swift call her 'hometown' in 'Welcome to New York'?",
-    "options": [
-      "Nashville",
-      "New York City",
-      "Los Angeles",
-      "Philadelphia"
-    ],
-    "answer_index": 1,
-    "era": "1989",
-    "difficulty": "easy",
-    "fun_fact": "Taylor moved to New York City in 2014 and donated the song's proceeds to NYC public schools.",
-    "approved": true
-  },
-  {
     "question": "What colour is associated with the 'Lover' era?",
     "options": [
       "Red",
