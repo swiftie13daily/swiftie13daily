@@ -483,5 +483,20 @@
     "fun_fact": "Taylor has directed several of her own music videos, including 'Anti-Hero', showcasing her creative vision beyond music.",
     "approved": true,
     "posted": "2026-06-23"
+  },
+  {
+    "question": "What does Taylor Swift call her devoted fanbase?",
+    "options": [
+      "Swifties",
+      "The Swifters",
+      "Fearless Fans",
+      "13ers"
+    ],
+    "answer_index": 0,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "The term 'Swifties' emerged organically from fans online in the mid-2000s and Taylor has fully embraced it.",
+    "approved": true,
+    "posted": "2026-06-23"
   }
 ]

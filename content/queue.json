@@ -1,19 +1,5 @@
 [
   {
-    "question": "What does Taylor Swift call her devoted fanbase?",
-    "options": [
-      "Swifties",
-      "The Swifters",
-      "Fearless Fans",
-      "13ers"
-    ],
-    "answer_index": 0,
-    "era": "debut",
-    "difficulty": "easy",
-    "fun_fact": "The term 'Swifties' emerged organically from fans online in the mid-2000s and Taylor has fully embraced it.",
-    "approved": true
-  },
-  {
     "question": "What year was Taylor Swift born?",
     "options": [
       "1988",
