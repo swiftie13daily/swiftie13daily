@@ -1,19 +1,5 @@
 [
   {
-    "question": "Who directed the 'Anti-Hero' music video?",
-    "options": [
-      "Joseph Kahn",
-      "Taylor Swift",
-      "Dave Meyers",
-      "Jonas \u00c5kerlund"
-    ],
-    "answer_index": 1,
-    "era": "midnights",
-    "difficulty": "medium",
-    "fun_fact": "Taylor has directed several of her own music videos, including 'Anti-Hero', showcasing her creative vision beyond music.",
-    "approved": true
-  },
-  {
     "question": "What does Taylor Swift call her devoted fanbase?",
     "options": [
       "Swifties",
