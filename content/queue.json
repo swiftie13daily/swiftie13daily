@@ -1,19 +1,5 @@
 [
   {
-    "question": "What year was Taylor Swift born?",
-    "options": [
-      "1988",
-      "1989",
-      "1990",
-      "1991"
-    ],
-    "answer_index": 1,
-    "era": "debut",
-    "difficulty": "easy",
-    "fun_fact": "Taylor was born on December 13, 1989 \u2014 she named her album '1989' after her birth year.",
-    "approved": true
-  },
-  {
     "question": "Which song did Taylor perform at the 2009 VMAs before Kanye's interruption?",
     "options": [
       "Love Story",
