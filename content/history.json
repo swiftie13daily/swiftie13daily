@@ -543,5 +543,20 @@
     "fun_fact": "Taylor was born on December 13, 1989 \u2014 she named her album '1989' after her birth year.",
     "approved": true,
     "posted": "2026-06-24"
+  },
+  {
+    "question": "Which song did Taylor perform at the 2009 VMAs before Kanye's interruption?",
+    "options": [
+      "Love Story",
+      "You Belong With Me",
+      "Fifteen",
+      "White Horse"
+    ],
+    "answer_index": 1,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "The 2009 VMA incident inspired Taylor to write 'Innocent', which she performed at the 2010 VMAs directly addressing Kanye.",
+    "approved": true,
+    "posted": "2026-06-24"
   }
 ]
