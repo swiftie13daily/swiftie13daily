@@ -1,19 +1,5 @@
 [
   {
-    "question": "What is the opening track of 'The Tortured Poets Department'?",
-    "options": [
-      "Fortnight",
-      "The Tortured Poets Department",
-      "My Boy Only Breaks His Favorite Toys",
-      "So Long London"
-    ],
-    "answer_index": 0,
-    "era": "ttpd",
-    "difficulty": "medium",
-    "fun_fact": "'Fortnight' features Post Malone and was the lead single \u2014 it debuted at #1 in over 30 countries.",
-    "approved": true
-  },
-  {
     "question": "How long is the extended version of 'All Too Well'?",
     "options": [
       "8 minutes",

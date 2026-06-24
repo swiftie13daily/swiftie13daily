@@ -558,5 +558,20 @@
     "fun_fact": "The 2009 VMA incident inspired Taylor to write 'Innocent', which she performed at the 2010 VMAs directly addressing Kanye.",
     "approved": true,
     "posted": "2026-06-24"
+  },
+  {
+    "question": "What is the opening track of 'The Tortured Poets Department'?",
+    "options": [
+      "Fortnight",
+      "The Tortured Poets Department",
+      "My Boy Only Breaks His Favorite Toys",
+      "So Long London"
+    ],
+    "answer_index": 0,
+    "era": "ttpd",
+    "difficulty": "medium",
+    "fun_fact": "'Fortnight' features Post Malone and was the lead single \u2014 it debuted at #1 in over 30 countries.",
+    "approved": true,
+    "posted": "2026-06-24"
   }
 ]
