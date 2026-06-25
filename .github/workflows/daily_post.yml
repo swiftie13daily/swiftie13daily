@@ -1,10 +1,13 @@
 name: Daily Instagram Post
 
 on:
-  schedule:
-    - cron: "0 16 * * *"   # 9:00 PM PKT (UTC+5) — post 1
-    - cron: "15 16 * * *"  # 9:15 PM PKT (UTC+5) — post 2
-  workflow_dispatch: {}    # lets you trigger a post manually from the Actions tab
+  workflow_dispatch: {}    # triggered by cron-job.org (external scheduler)
+
+# Prevents two runs from picking the same queue item.
+# If a second trigger arrives while a run is in progress, it waits � never cancels.
+concurrency:
+  group: instagram-post
+  cancel-in-progress: false
 
 permissions:
   contents: write
