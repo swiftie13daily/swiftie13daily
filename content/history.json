@@ -618,5 +618,20 @@
     "fun_fact": "Sadie Sink, known for Stranger Things, plays 'Her' in the film opposite Dylan O'Brien. Taylor wrote and directed it herself.",
     "approved": true,
     "posted": "2026-06-26"
+  },
+  {
+    "question": "What does 'TTPD' stand for?",
+    "options": [
+      "The Taylor Poetry Department",
+      "The Tortured Poets Department",
+      "The Tragic Poets Department",
+      "The Taylor Poets Division"
+    ],
+    "answer_index": 1,
+    "era": "ttpd",
+    "difficulty": "easy",
+    "fun_fact": "Taylor announced TTPD while accepting her 13th Grammy for Midnights \u2014 the room erupted when she revealed the title.",
+    "approved": true,
+    "posted": "2026-06-26"
   }
 ]
