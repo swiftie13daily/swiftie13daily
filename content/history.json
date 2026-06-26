@@ -603,5 +603,20 @@
     "fun_fact": "'Long Story Short' is widely interpreted as Taylor reflecting on the difficult 2016-2019 period of her life and career.",
     "approved": true,
     "posted": "2026-06-25"
+  },
+  {
+    "question": "Which actress starred in the 'All Too Well' short film?",
+    "options": [
+      "Zendaya",
+      "Florence Pugh",
+      "Sadie Sink",
+      "Millie Bobby Brown"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Sadie Sink, known for Stranger Things, plays 'Her' in the film opposite Dylan O'Brien. Taylor wrote and directed it herself.",
+    "approved": true,
+    "posted": "2026-06-26"
   }
 ]
