@@ -633,5 +633,20 @@
     "fun_fact": "Taylor announced TTPD while accepting her 13th Grammy for Midnights \u2014 the room erupted when she revealed the title.",
     "approved": true,
     "posted": "2026-06-26"
+  },
+  {
+    "question": "Which Taylor Swift album was recorded in secret during the COVID-19 pandemic?",
+    "options": [
+      "Lover",
+      "folklore",
+      "TTPD",
+      "Midnights"
+    ],
+    "answer_index": 1,
+    "era": "folklore",
+    "difficulty": "easy",
+    "fun_fact": "folklore was surprise-announced with just 24 hours notice in July 2020 and released to universal critical acclaim.",
+    "approved": true,
+    "posted": "2026-06-27"
   }
 ]
