@@ -648,5 +648,20 @@
     "fun_fact": "folklore was surprise-announced with just 24 hours notice in July 2020 and released to universal critical acclaim.",
     "approved": true,
     "posted": "2026-06-27"
+  },
+  {
+    "question": "How long is the extended version of 'All Too Well'?",
+    "options": [
+      "8 minutes",
+      "9 minutes",
+      "10 minutes",
+      "12 minutes"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "easy",
+    "fun_fact": "Fans had long requested the full version after learning a longer cut existed \u2014 Taylor finally released it with Red (TV) in 2021.",
+    "approved": true,
+    "posted": "2026-06-29"
   }
 ]
