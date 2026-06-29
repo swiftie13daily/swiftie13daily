@@ -1,1 +1,268 @@
-[]
+[
+  {
+    "question": "How long is the extended version of 'All Too Well'?",
+    "options": [
+      "8 minutes",
+      "9 minutes",
+      "10 minutes",
+      "12 minutes"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "easy",
+    "fun_fact": "Fans had long requested the full version after learning a longer cut existed \u2014 Taylor finally released it with Red (TV) in 2021.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift song contains the lyric 'Long story short, I survived'?",
+    "options": [
+      "The 1",
+      "Long Story Short",
+      "Mirrorball",
+      "Champagne Problems"
+    ],
+    "answer_index": 1,
+    "era": "evermore",
+    "difficulty": "medium",
+    "fun_fact": "'Long Story Short' is widely interpreted as Taylor reflecting on the difficult 2016-2019 period of her life and career.",
+    "approved": true
+  },
+  {
+    "question": "Which actress starred in the 'All Too Well' short film?",
+    "options": [
+      "Zendaya",
+      "Florence Pugh",
+      "Sadie Sink",
+      "Millie Bobby Brown"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Sadie Sink, known for Stranger Things, plays 'Her' in the film opposite Dylan O'Brien. Taylor wrote and directed it herself.",
+    "approved": true
+  },
+  {
+    "question": "What does 'TTPD' stand for?",
+    "options": [
+      "The Taylor Poetry Department",
+      "The Tortured Poets Department",
+      "The Tragic Poets Department",
+      "The Taylor Poets Division"
+    ],
+    "answer_index": 1,
+    "era": "ttpd",
+    "difficulty": "easy",
+    "fun_fact": "Taylor announced TTPD while accepting her 13th Grammy for Midnights \u2014 the room erupted when she revealed the title.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift album was recorded in secret during the COVID-19 pandemic?",
+    "options": [
+      "Lover",
+      "folklore",
+      "TTPD",
+      "Midnights"
+    ],
+    "answer_index": 1,
+    "era": "folklore",
+    "difficulty": "easy",
+    "fun_fact": "folklore was surprise-announced with just 24 hours notice in July 2020 and released to universal critical acclaim.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift song features the lyric 'I got a blank space, baby, and I\u2019ll write your name'?",
+    "options": [
+      "Style",
+      "Blank Space",
+      "Bad Blood",
+      "Shake It Off"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "easy",
+    "fun_fact": "'Blank Space' was Taylor's satirical response to the media's portrayal of her as a serial dater \u2014 she leaned all the way into it.",
+    "approved": true
+  },
+  {
+    "question": "Who did Taylor Swift collaborate with on the song 'Everything Has Changed'?",
+    "options": [
+      "Justin Bieber",
+      "Harry Styles",
+      "Ed Sheeran",
+      "Bruno Mars"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Taylor and Ed wrote 'Everything Has Changed' together in Ed's tent at her backyard concert in Nashville.",
+    "approved": true
+  },
+  {
+    "question": "What are the bonus tracks on Taylor's re-recorded albums officially called?",
+    "options": [
+      "Hidden Gems",
+      "Deep Cuts",
+      "From the Vault",
+      "Secret Sessions"
+    ],
+    "answer_index": 2,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "Vault tracks are songs Taylor recorded for the original albums but never released \u2014 some fans consider them better than the originals.",
+    "approved": true
+  },
+  {
+    "question": "How many cats does Taylor Swift own?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer_index": 2,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "Their names are Meredith Grey, Olivia Benson, and Benjamin Button \u2014 all named after fictional characters Taylor loves.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift album features the song 'Enchanted'?",
+    "options": [
+      "Fearless",
+      "Red",
+      "Speak Now",
+      "1989"
+    ],
+    "answer_index": 2,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "Taylor wrote 'Enchanted' about meeting someone at a party and wondering if they felt the same spark she did.",
+    "approved": true
+  },
+  {
+    "question": "What is the name of Taylor Swift's world tour that ran in 2015?",
+    "options": [
+      "Fearless Tour",
+      "Speak Now World Tour",
+      "The 1989 World Tour",
+      "reputation Stadium Tour"
+    ],
+    "answer_index": 2,
+    "era": "1989",
+    "difficulty": "medium",
+    "fun_fact": "The 1989 World Tour grossed over $250 million, making it the highest-grossing tour of 2015 at the time.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift song contains the lyric 'Long live all the mountains we moved'?",
+    "options": [
+      "Change",
+      "Long Live",
+      "The Best Day",
+      "Fifteen"
+    ],
+    "answer_index": 1,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "Taylor wrote 'Long Live' as a love letter to her band and fans, celebrating everything they built together in the early years.",
+    "approved": true
+  },
+  {
+    "question": "What secret feature did Taylor Swift hide in her early album liner notes?",
+    "options": [
+      "QR codes",
+      "Capitalized letters spelling hidden messages",
+      "Invisible ink drawings",
+      "Numbered fan tickets"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "hard",
+    "fun_fact": "Taylor capitalized random letters in her lyrics booklets that spelled out secret messages \u2014 fans called them 'hidden messages' and decoded every single one.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift song features Bon Iver?",
+    "options": [
+      "seven",
+      "exile",
+      "invisible string",
+      "this is me trying"
+    ],
+    "answer_index": 1,
+    "era": "folklore",
+    "difficulty": "medium",
+    "fun_fact": "Justin Vernon of Bon Iver recorded 'exile' remotely during lockdown \u2014 it became one of folklore's most acclaimed tracks.",
+    "approved": true
+  },
+  {
+    "question": "What pseudonym did Taylor Swift use when co-writing Calvin Harris's 2016 hit 'This Is What You Came For'?",
+    "options": [
+      "Nils Sj\u00f6berg",
+      "William Bowery",
+      "Alwyn Swift",
+      "Scarlett Taylor"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "hard",
+    "fun_fact": "Taylor used the name 'Nils Sj\u00f6berg' to avoid attention, but confirmed she wrote it after her split with Calvin Harris.",
+    "approved": true
+  },
+  {
+    "question": "Under what pseudonym did Joe Alwyn co-write Taylor Swift's 'Champagne Problems'?",
+    "options": [
+      "Nils Sj\u00f6berg",
+      "Jonathan Pierce",
+      "William Bowery",
+      "Aaron Dessner"
+    ],
+    "answer_index": 2,
+    "era": "evermore",
+    "difficulty": "hard",
+    "fun_fact": "Joe Alwyn used the pseudonym William Bowery to co-write several folklore and evermore tracks with Taylor.",
+    "approved": true
+  },
+  {
+    "question": "Which producer is most credited for creating the polished pop sound of Taylor Swift's '1989'?",
+    "options": [
+      "Jack Antonoff",
+      "Max Martin",
+      "Rick Rubin",
+      "Nathan Chapman"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "hard",
+    "fun_fact": "Max Martin and his collaborator Shellback produced hits like 'Shake It Off', 'Style', and 'Blank Space', defining the album's sound.",
+    "approved": true
+  },
+  {
+    "question": "How many total tracks does 'Red (Taylor\u2019s Version)' contain?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "hard",
+    "fun_fact": "The original Red had 16 standard tracks. The re-recorded version added 13 vault tracks plus the 10-minute 'All Too Well', bringing it to 30.",
+    "approved": true
+  },
+  {
+    "question": "Which Taylor Swift music video features a cast of celebrity friends in an action movie-style storyline?",
+    "options": [
+      "Look What You Made Me Do",
+      "Bad Blood",
+      "You Need to Calm Down",
+      "...Ready for It?"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "easy",
+    "fun_fact": "The 'Bad Blood' video features Selena Gomez, Cara Delevingne, Kendall Jenner, and over a dozen more celebrities in elaborate action personas.",
+    "approved": true
+  }
+]
