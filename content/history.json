@@ -678,5 +678,20 @@
     "fun_fact": "'Long Story Short' is widely interpreted as Taylor reflecting on the difficult 2016-2019 period of her life and career.",
     "approved": true,
     "posted": "2026-06-29"
+  },
+  {
+    "question": "Which Taylor Swift song features the lyric \u2018I got a blank space, baby, and I\u2019ll write your name\u2019?",
+    "options": [
+      "Style",
+      "Blank Space",
+      "Bad Blood",
+      "Shake It Off"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "easy",
+    "fun_fact": "\u2019Blank Space\u2019 was Taylor\u2019s satirical response to the media\u2019s portrayal of her as a serial dater \u2014 she leaned all the way into it.",
+    "approved": true,
+    "posted": "2026-06-30"
   }
 ]
