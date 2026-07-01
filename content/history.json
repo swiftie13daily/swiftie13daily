@@ -708,5 +708,20 @@
     "fun_fact": "Taylor and Ed wrote 'Everything Has Changed' together in Ed's tent at her backyard concert in Nashville.",
     "approved": true,
     "posted": "2026-06-30"
+  },
+  {
+    "question": "Who did Taylor Swift collaborate with on the song \u2018Everything Has Changed\u2019?",
+    "options": [
+      "Justin Bieber",
+      "Harry Styles",
+      "Ed Sheeran",
+      "Bruno Mars"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Taylor and Ed wrote \u2018Everything Has Changed\u2019 together in Ed\u2019s tent at her backyard concert in Nashville.",
+    "approved": true,
+    "posted": "2026-07-01"
   }
 ]

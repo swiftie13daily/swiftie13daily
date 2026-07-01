@@ -1,19 +1,5 @@
 [
   {
-    "question": "Who did Taylor Swift collaborate with on the song \u2018Everything Has Changed\u2019?",
-    "options": [
-      "Justin Bieber",
-      "Harry Styles",
-      "Ed Sheeran",
-      "Bruno Mars"
-    ],
-    "answer_index": 2,
-    "era": "red",
-    "difficulty": "medium",
-    "fun_fact": "Taylor and Ed wrote \u2018Everything Has Changed\u2019 together in Ed\u2019s tent at her backyard concert in Nashville.",
-    "approved": true
-  },
-  {
     "question": "What are the bonus tracks on Taylor's re-recorded albums officially called?",
     "options": [
       "Hidden Gems",
