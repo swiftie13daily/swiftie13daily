@@ -1,11 +1,11 @@
-"""Daily reel orchestrator — separate track from the quiz-card pipeline in
+"""Daily reel orchestrator - separate track from the quiz-card pipeline in
 main.py (different queue, no render step, videos are already pre-made).
 
 Flow:
   1. Pick the next un-posted reel from content/reel_queue.json (first entry
      without a "posted" date).
   2. Build its public video URL from config.REPO_RAW_BASE + reel/<file>
-     (same raw-GitHub trick main.py uses for images — repo must stay public).
+     (same raw-GitHub trick main.py uses for images - repo must stay public).
   3. Publish it to Instagram as a Reel via post_reel.publish_reel().
   4. Move the item to content/reel_history.json and save state.
 
@@ -48,6 +48,11 @@ def pick_item():
     sys.exit(1)
 
 
+def already_posted_today(today: str) -> bool:
+    history = _load(REEL_HISTORY_PATH, [])
+    return any(h.get("posted") == today for h in history)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true",
@@ -56,6 +61,13 @@ def main():
     args = ap.parse_args()
 
     today = datetime.date.today().isoformat()
+
+    # One reel per day, no matter how many times this workflow gets
+    # triggered today (e.g. a manual test run earlier, then the 8pm cron).
+    if already_posted_today(today):
+        print(f"A reel was already posted today ({today}) - skipping.")
+        return
+
     item, queue = pick_item()
 
     if args.dry_run:
@@ -64,7 +76,7 @@ def main():
         return
 
     if not config.REPO_RAW_BASE:
-        print("ERROR: REPO_RAW_BASE not set — needed to build a public video URL.")
+        print("ERROR: REPO_RAW_BASE not set - needed to build a public video URL.")
         sys.exit(1)
 
     encoded_name = urllib.parse.quote(item["file"])
