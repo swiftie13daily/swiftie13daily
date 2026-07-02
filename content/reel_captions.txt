@@ -1,0 +1,72 @@
+# Fill in a caption below each CAPTION: line.
+# Keep the FILE:/DAY:/CAPTION: labels and the ===== separators as they are —
+# don't reorder or delete entries, just type your caption text in.
+
+
+FILE: enchanted -thursday.mp4
+DAY: Thursday (today)
+CAPTION:
+see if you can guess this #taylorswift song with 3 hints
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: reputation -friday.mp4
+DAY: Friday
+CAPTION:
+
+See if you can guess this #taylorswift era by the following visuals
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: daylight -saturday.mp4
+DAY: Saturday
+CAPTION:
+
+See if you can guess the #taylorswift lyrics by emojis
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: teardrops on my guitar - sunday.mp4
+DAY: Sunday
+CAPTION:
+
+See if you can guess this #taylorswift music video by this grogeous outfit
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: grogeous -monday.mp4
+DAY: Monday
+CAPTION:
+
+See if you can guess this #taylorswift song by description
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: pick1-cardigan-champangeproblems -tuesday.mp4
+DAY: Tuesday
+CAPTION:
+
+Pick one #taylorswift song, cardigan or champange problems
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: love story -wednesday.mp4
+DAY: Wednesday 
+CAPTION:
+See if you can guess this #taylorswift song by emoji 
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
