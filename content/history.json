@@ -723,5 +723,20 @@
     "fun_fact": "Taylor and Ed wrote \u2018Everything Has Changed\u2019 together in Ed\u2019s tent at her backyard concert in Nashville.",
     "approved": true,
     "posted": "2026-07-01"
+  },
+  {
+    "question": "What are the bonus tracks on Taylor's re-recorded albums officially called?",
+    "options": [
+      "Hidden Gems",
+      "Deep Cuts",
+      "From the Vault",
+      "Secret Sessions"
+    ],
+    "answer_index": 2,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "Vault tracks are songs Taylor recorded for the original albums but never released \u2014 some fans consider them better than the originals.",
+    "approved": true,
+    "posted": "2026-07-02"
   }
 ]
