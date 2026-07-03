@@ -1,19 +1,5 @@
 [
   {
-    "question": "How many cats does Taylor Swift own?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer_index": 2,
-    "era": "debut",
-    "difficulty": "easy",
-    "fun_fact": "Their names are Meredith Grey, Olivia Benson, and Benjamin Button \u2014 all named after fictional characters Taylor loves.",
-    "approved": true
-  },
-  {
     "question": "Which Taylor Swift album features the song 'Enchanted'?",
     "options": [
       "Fearless",
