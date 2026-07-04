@@ -753,5 +753,20 @@
     "fun_fact": "Their names are Meredith Grey, Olivia Benson, and Benjamin Button \u2014 all named after fictional characters Taylor loves.",
     "approved": true,
     "posted": "2026-07-03"
+  },
+  {
+    "question": "Which Taylor Swift album features the song 'Enchanted'?",
+    "options": [
+      "Fearless",
+      "Red",
+      "Speak Now",
+      "1989"
+    ],
+    "answer_index": 2,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "Taylor wrote 'Enchanted' about meeting someone at a party and wondering if they felt the same spark she did.",
+    "approved": true,
+    "posted": "2026-07-04"
   }
 ]

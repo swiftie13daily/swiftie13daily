@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Taylor Swift album features the song 'Enchanted'?",
-    "options": [
-      "Fearless",
-      "Red",
-      "Speak Now",
-      "1989"
-    ],
-    "answer_index": 2,
-    "era": "speak_now",
-    "difficulty": "medium",
-    "fun_fact": "Taylor wrote 'Enchanted' about meeting someone at a party and wondering if they felt the same spark she did.",
-    "approved": true
-  },
-  {
     "question": "What is the name of Taylor Swift's world tour that ran in 2015?",
     "options": [
       "Fearless Tour",
