@@ -768,5 +768,20 @@
     "fun_fact": "Taylor wrote 'Enchanted' about meeting someone at a party and wondering if they felt the same spark she did.",
     "approved": true,
     "posted": "2026-07-04"
+  },
+  {
+    "question": "What is the name of Taylor Swift's world tour that ran in 2015?",
+    "options": [
+      "Fearless Tour",
+      "Speak Now World Tour",
+      "The 1989 World Tour",
+      "reputation Stadium Tour"
+    ],
+    "answer_index": 2,
+    "era": "1989",
+    "difficulty": "medium",
+    "fun_fact": "The 1989 World Tour grossed over $250 million, making it the highest-grossing tour of 2015 at the time.",
+    "approved": true,
+    "posted": "2026-07-05"
   }
 ]
