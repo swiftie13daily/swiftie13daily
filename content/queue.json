@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Taylor Swift song contains the lyric 'Long live all the mountains we moved'?",
-    "options": [
-      "Change",
-      "Long Live",
-      "The Best Day",
-      "Fifteen"
-    ],
-    "answer_index": 1,
-    "era": "speak_now",
-    "difficulty": "medium",
-    "fun_fact": "Taylor wrote 'Long Live' as a love letter to her band and fans, celebrating everything they built together in the early years.",
-    "approved": true
-  },
-  {
     "question": "What secret feature did Taylor Swift hide in her early album liner notes?",
     "options": [
       "QR codes",

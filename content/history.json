@@ -783,5 +783,20 @@
     "fun_fact": "The 1989 World Tour grossed over $250 million, making it the highest-grossing tour of 2015 at the time.",
     "approved": true,
     "posted": "2026-07-05"
+  },
+  {
+    "question": "Which Taylor Swift song contains the lyric 'Long live all the mountains we moved'?",
+    "options": [
+      "Change",
+      "Long Live",
+      "The Best Day",
+      "Fifteen"
+    ],
+    "answer_index": 1,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "Taylor wrote 'Long Live' as a love letter to her band and fans, celebrating everything they built together in the early years.",
+    "approved": true,
+    "posted": "2026-07-06"
   }
 ]
