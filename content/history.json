@@ -798,5 +798,20 @@
     "fun_fact": "Taylor wrote 'Long Live' as a love letter to her band and fans, celebrating everything they built together in the early years.",
     "approved": true,
     "posted": "2026-07-06"
+  },
+  {
+    "question": "What secret feature did Taylor Swift hide in her early album liner notes?",
+    "options": [
+      "QR codes",
+      "Capitalized letters spelling hidden messages",
+      "Invisible ink drawings",
+      "Numbered fan tickets"
+    ],
+    "answer_index": 1,
+    "era": "debut",
+    "difficulty": "hard",
+    "fun_fact": "Taylor capitalized random letters in her lyrics booklets that spelled out secret messages \u2014 fans called them 'hidden messages' and decoded every single one.",
+    "approved": true,
+    "posted": "2026-07-07"
   }
 ]
