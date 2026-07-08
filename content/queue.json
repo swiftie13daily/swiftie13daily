@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Taylor Swift song features Bon Iver?",
-    "options": [
-      "seven",
-      "exile",
-      "invisible string",
-      "this is me trying"
-    ],
-    "answer_index": 1,
-    "era": "folklore",
-    "difficulty": "medium",
-    "fun_fact": "Justin Vernon of Bon Iver recorded 'exile' remotely during lockdown \u2014 it became one of folklore's most acclaimed tracks.",
-    "approved": true
-  },
-  {
     "question": "What pseudonym did Taylor Swift use when co-writing Calvin Harris's 2016 hit 'This Is What You Came For'?",
     "options": [
       "Nils Sj\u00f6berg",

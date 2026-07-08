@@ -813,5 +813,20 @@
     "fun_fact": "Taylor capitalized random letters in her lyrics booklets that spelled out secret messages \u2014 fans called them 'hidden messages' and decoded every single one.",
     "approved": true,
     "posted": "2026-07-07"
+  },
+  {
+    "question": "Which Taylor Swift song features Bon Iver?",
+    "options": [
+      "seven",
+      "exile",
+      "invisible string",
+      "this is me trying"
+    ],
+    "answer_index": 1,
+    "era": "folklore",
+    "difficulty": "medium",
+    "fun_fact": "Justin Vernon of Bon Iver recorded 'exile' remotely during lockdown \u2014 it became one of folklore's most acclaimed tracks.",
+    "approved": true,
+    "posted": "2026-07-08"
   }
 ]
