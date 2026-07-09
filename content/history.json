@@ -828,5 +828,20 @@
     "fun_fact": "Justin Vernon of Bon Iver recorded 'exile' remotely during lockdown \u2014 it became one of folklore's most acclaimed tracks.",
     "approved": true,
     "posted": "2026-07-08"
+  },
+  {
+    "question": "What pseudonym did Taylor Swift use when co-writing Calvin Harris's 2016 hit 'This Is What You Came For'?",
+    "options": [
+      "Nils Sj\u00f6berg",
+      "William Bowery",
+      "Alwyn Swift",
+      "Scarlett Taylor"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "hard",
+    "fun_fact": "Taylor used the name 'Nils Sj\u00f6berg' to avoid attention, but confirmed she wrote it after her split with Calvin Harris.",
+    "approved": true,
+    "posted": "2026-07-09"
   }
 ]
