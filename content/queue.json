@@ -1,19 +1,5 @@
 [
   {
-    "question": "Under what pseudonym did Joe Alwyn co-write Taylor Swift's 'Champagne Problems'?",
-    "options": [
-      "Nils Sj\u00f6berg",
-      "Jonathan Pierce",
-      "William Bowery",
-      "Aaron Dessner"
-    ],
-    "answer_index": 2,
-    "era": "evermore",
-    "difficulty": "hard",
-    "fun_fact": "Joe Alwyn used the pseudonym William Bowery to co-write several folklore and evermore tracks with Taylor.",
-    "approved": true
-  },
-  {
     "question": "Which producer is most credited for creating the polished pop sound of Taylor Swift's '1989'?",
     "options": [
       "Jack Antonoff",

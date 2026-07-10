@@ -843,5 +843,20 @@
     "fun_fact": "Taylor used the name 'Nils Sj\u00f6berg' to avoid attention, but confirmed she wrote it after her split with Calvin Harris.",
     "approved": true,
     "posted": "2026-07-09"
+  },
+  {
+    "question": "Under what pseudonym did Joe Alwyn co-write Taylor Swift's 'Champagne Problems'?",
+    "options": [
+      "Nils Sj\u00f6berg",
+      "Jonathan Pierce",
+      "William Bowery",
+      "Aaron Dessner"
+    ],
+    "answer_index": 2,
+    "era": "evermore",
+    "difficulty": "hard",
+    "fun_fact": "Joe Alwyn used the pseudonym William Bowery to co-write several folklore and evermore tracks with Taylor.",
+    "approved": true,
+    "posted": "2026-07-10"
   }
 ]
