@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which producer is most credited for creating the polished pop sound of Taylor Swift's '1989'?",
-    "options": [
-      "Jack Antonoff",
-      "Max Martin",
-      "Rick Rubin",
-      "Nathan Chapman"
-    ],
-    "answer_index": 1,
-    "era": "1989",
-    "difficulty": "hard",
-    "fun_fact": "Max Martin and his collaborator Shellback produced hits like 'Shake It Off', 'Style', and 'Blank Space', defining the album's sound.",
-    "approved": true
-  },
-  {
     "question": "How many total tracks does 'Red (Taylor\u2019s Version)' contain?",
     "options": [
       "20",

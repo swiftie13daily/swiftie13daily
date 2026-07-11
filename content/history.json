@@ -858,5 +858,20 @@
     "fun_fact": "Joe Alwyn used the pseudonym William Bowery to co-write several folklore and evermore tracks with Taylor.",
     "approved": true,
     "posted": "2026-07-10"
+  },
+  {
+    "question": "Which producer is most credited for creating the polished pop sound of Taylor Swift's '1989'?",
+    "options": [
+      "Jack Antonoff",
+      "Max Martin",
+      "Rick Rubin",
+      "Nathan Chapman"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "hard",
+    "fun_fact": "Max Martin and his collaborator Shellback produced hits like 'Shake It Off', 'Style', and 'Blank Space', defining the album's sound.",
+    "approved": true,
+    "posted": "2026-07-11"
   }
 ]
