@@ -873,5 +873,20 @@
     "fun_fact": "Max Martin and his collaborator Shellback produced hits like 'Shake It Off', 'Style', and 'Blank Space', defining the album's sound.",
     "approved": true,
     "posted": "2026-07-11"
+  },
+  {
+    "question": "How many total tracks does 'Red (Taylor\u2019s Version)' contain?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer_index": 2,
+    "era": "red",
+    "difficulty": "hard",
+    "fun_fact": "The original Red had 16 standard tracks. The re-recorded version added 13 vault tracks plus the 10-minute 'All Too Well', bringing it to 30.",
+    "approved": true,
+    "posted": "2026-07-12"
   }
 ]
