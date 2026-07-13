@@ -12,5 +12,425 @@
     "difficulty": "easy",
     "fun_fact": "The 'Bad Blood' video features Selena Gomez, Cara Delevingne, Kendall Jenner, and over a dozen more celebrities in elaborate action personas.",
     "approved": true
+  },
+  {
+    "question": "Which song from Taylor Swift's debut album is about a boy who chose someone else?",
+    "options": [
+      "Teardrops on My Guitar",
+      "Tim McGraw",
+      "Picture to Burn",
+      "A Place in this World"
+    ],
+    "answer_index": 0,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "It was inspired by a real classmate who didn't realize the song was about him until years later.",
+    "approved": true
+  },
+  {
+    "question": "What is the title of Taylor Swift's self-titled debut album?",
+    "options": [
+      "Taylor Swift",
+      "Fearless",
+      "Speak Now",
+      "Red"
+    ],
+    "answer_index": 0,
+    "era": "debut",
+    "difficulty": "easy",
+    "fun_fact": "It was released in October 2006 when Taylor was just 16 years old.",
+    "approved": true
+  },
+  {
+    "question": "Which Fearless single won Taylor Swift her first Grammy for Best Country Song?",
+    "options": [
+      "White Horse",
+      "Love Story",
+      "Fifteen",
+      "You Belong with Me"
+    ],
+    "answer_index": 0,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "White Horse took home the award at the 2009 Grammy Awards.",
+    "approved": true
+  },
+  {
+    "question": "Which Fearless song is about feeling invisible to a crush who's dating someone else?",
+    "options": [
+      "You Belong with Me",
+      "Fifteen",
+      "Hey Stephen",
+      "The Best Day"
+    ],
+    "answer_index": 0,
+    "era": "fearless",
+    "difficulty": "easy",
+    "fun_fact": "Its music video won Best Female Video at the 2009 VMAs.",
+    "approved": true
+  },
+  {
+    "question": "What made 'Speak Now' unique among Taylor Swift's early albums?",
+    "options": [
+      "She wrote every song entirely alone",
+      "It was recorded live",
+      "It had no singles released",
+      "It featured only covers"
+    ],
+    "answer_index": 0,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "No co-writers appear anywhere in the album's songwriting credits.",
+    "approved": true
+  },
+  {
+    "question": "Where did 'Speak Now' debut on the Billboard 200 chart?",
+    "options": [
+      "Number 1",
+      "Number 3",
+      "Number 5",
+      "Number 10"
+    ],
+    "answer_index": 0,
+    "era": "speak_now",
+    "difficulty": "easy",
+    "fun_fact": "It sold over a million copies in its very first week.",
+    "approved": true
+  },
+  {
+    "question": "How many brand-new 'From the Vault' tracks were added to 'Speak Now (Taylor's Version)'?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer_index": 1,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "The vault tracks included collaborations with Fall Out Boy and Hayley Williams.",
+    "approved": true
+  },
+  {
+    "question": "Which upbeat 'Red' single has a music video of Taylor and friends baking and dancing at home?",
+    "options": [
+      "22",
+      "Begin Again",
+      "I Knew You Were Trouble",
+      "We Are Never Ever Getting Back Together"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "easy",
+    "fun_fact": "The song became an anthem about feeling every emotion at once.",
+    "approved": true
+  },
+  {
+    "question": "Which Scottish singer co-wrote and features on the 'Red' track 'The Last Time'?",
+    "options": [
+      "Gary Lightbody",
+      "Ed Sheeran",
+      "Justin Vernon",
+      "Brendon Urie"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Gary Lightbody is best known as the frontman of the band Snow Patrol.",
+    "approved": true
+  },
+  {
+    "question": "Which artist features on the 'Red (Taylor's Version)' vault track 'I Bet You Think About Me'?",
+    "options": [
+      "Chris Stapleton",
+      "Keith Urban",
+      "Vince Gill",
+      "Maren Morris"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "hard",
+    "fun_fact": "The country-tinged vault track leans into Red's original Nashville roots.",
+    "approved": true
+  },
+  {
+    "question": "Fans have a theory that one track number on an album is always the most emotionally vulnerable song. Which number?",
+    "options": [
+      "Track 5",
+      "Track 3",
+      "Track 7",
+      "Track 10"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "hard",
+    "fun_fact": "The 'track five' theory has become a beloved piece of Swiftie fan lore.",
+    "approved": true
+  },
+  {
+    "question": "What decade does the album title '1989' reference?",
+    "options": [
+      "The 1980s",
+      "The 1990s",
+      "The 1970s",
+      "The 2000s"
+    ],
+    "answer_index": 0,
+    "era": "1989",
+    "difficulty": "easy",
+    "fun_fact": "1989 is also the year Taylor Swift was born.",
+    "approved": true
+  },
+  {
+    "question": "Which two artists feature on the 'reputation' single 'End Game'?",
+    "options": [
+      "Ed Sheeran and Future",
+      "Drake and Rihanna",
+      "Bruno Mars and Cardi B",
+      "The Weeknd and Doja Cat"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "medium",
+    "fun_fact": "It was one of the few reputation tracks with outside guest features.",
+    "approved": true
+  },
+  {
+    "question": "The Reputation Stadium Tour concert film was released exclusively on which streaming platform?",
+    "options": [
+      "Netflix",
+      "Hulu",
+      "Disney+",
+      "Amazon Prime"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "easy",
+    "fun_fact": "It dropped on New Year's Eve 2018.",
+    "approved": true
+  },
+  {
+    "question": "Which reputation ballad became known as the tour's emotional closing moment?",
+    "options": [
+      "New Year's Day",
+      "Delicate",
+      "Getaway Car",
+      "Call It What You Want"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "hard",
+    "fun_fact": "It's a stripped-down piano song about love after the party ends.",
+    "approved": true
+  },
+  {
+    "question": "'reputation' was the best-selling album in the US for which year?",
+    "options": [
+      "2017",
+      "2015",
+      "2019",
+      "2013"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "hard",
+    "fun_fact": "It topped the Billboard 200 for multiple weeks that year.",
+    "approved": true
+  },
+  {
+    "question": "Which artist joins Taylor Swift on the 'Lover' duet 'ME!'?",
+    "options": [
+      "Brendon Urie",
+      "Shawn Mendes",
+      "Zayn Malik",
+      "Niall Horan"
+    ],
+    "answer_index": 0,
+    "era": "lover",
+    "difficulty": "easy",
+    "fun_fact": "Brendon Urie is the frontman of Panic! At The Disco.",
+    "approved": true
+  },
+  {
+    "question": "What is the final track on the 'Lover' album?",
+    "options": [
+      "Daylight",
+      "Lover",
+      "Afterglow",
+      "False God"
+    ],
+    "answer_index": 0,
+    "era": "lover",
+    "difficulty": "medium",
+    "fun_fact": "It closes the album on a hopeful, romantic note.",
+    "approved": true
+  },
+  {
+    "question": "Which country group duets with Taylor Swift on 'Soon You'll Get Better'?",
+    "options": [
+      "The Chicks",
+      "Little Big Town",
+      "Lady A",
+      "Sugarland"
+    ],
+    "answer_index": 0,
+    "era": "lover",
+    "difficulty": "hard",
+    "fun_fact": "The song was written about a family member's health struggles.",
+    "approved": true
+  },
+  {
+    "question": "What type of release is Taylor Swift's 'Miss Americana'?",
+    "options": [
+      "A Netflix documentary",
+      "A concert film",
+      "A music video",
+      "A podcast series"
+    ],
+    "answer_index": 0,
+    "era": "lover",
+    "difficulty": "medium",
+    "fun_fact": "It premiered at the Sundance Film Festival in January 2020.",
+    "approved": true
+  },
+  {
+    "question": "How much advance notice did Taylor Swift give fans before releasing 'folklore'?",
+    "options": [
+      "Less than 24 hours",
+      "One week",
+      "One month",
+      "Three months"
+    ],
+    "answer_index": 0,
+    "era": "folklore",
+    "difficulty": "easy",
+    "fun_fact": "The surprise announcement stunned fans who had no idea an album was coming.",
+    "approved": true
+  },
+  {
+    "question": "'folklore' won which award at the 2021 Grammy Awards?",
+    "options": [
+      "Album of the Year",
+      "Record of the Year",
+      "Best New Artist",
+      "Song of the Year"
+    ],
+    "answer_index": 0,
+    "era": "folklore",
+    "difficulty": "medium",
+    "fun_fact": "It made Taylor Swift the first woman to win that Grammy category three times.",
+    "approved": true
+  },
+  {
+    "question": "How did Taylor Swift describe 'evermore' in relation to 'folklore'?",
+    "options": [
+      "Its sister album",
+      "A remix collection",
+      "A live album",
+      "A greatest hits set"
+    ],
+    "answer_index": 0,
+    "era": "evermore",
+    "difficulty": "easy",
+    "fun_fact": "evermore arrived less than five months after folklore, in December 2020.",
+    "approved": true
+  },
+  {
+    "question": "Which group features on the 'evermore' track 'no body, no crime'?",
+    "options": [
+      "HAIM",
+      "The Chicks",
+      "Bon Iver",
+      "Phoebe Bridgers"
+    ],
+    "answer_index": 0,
+    "era": "evermore",
+    "difficulty": "medium",
+    "fun_fact": "The murder-mystery style song became an unexpected fan favorite.",
+    "approved": true
+  },
+  {
+    "question": "Which artist is credited as a featured vocalist on 'Snow On The Beach' from Midnights?",
+    "options": [
+      "Lana Del Rey",
+      "Phoebe Bridgers",
+      "Florence Welch",
+      "HAIM"
+    ],
+    "answer_index": 0,
+    "era": "midnights",
+    "difficulty": "easy",
+    "fun_fact": "Fans had speculated about a collaboration between the two artists for years.",
+    "approved": true
+  },
+  {
+    "question": "Taylor Swift described Midnights as chronicling how many sleepless nights scattered across her life?",
+    "options": [
+      "13",
+      "7",
+      "21",
+      "31"
+    ],
+    "answer_index": 0,
+    "era": "midnights",
+    "difficulty": "hard",
+    "fun_fact": "The number 13 has long been considered Taylor's lucky number.",
+    "approved": true
+  },
+  {
+    "question": "How many bonus tracks were added in the 'Midnights (3am Edition)'?",
+    "options": [
+      "7",
+      "5",
+      "9",
+      "12"
+    ],
+    "answer_index": 0,
+    "era": "midnights",
+    "difficulty": "medium",
+    "fun_fact": "The 3am Edition dropped the same day as the original album, at 3 a.m.",
+    "approved": true
+  },
+  {
+    "question": "How many tracks were on the original standard edition of 'The Tortured Poets Department'?",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "31"
+    ],
+    "answer_index": 0,
+    "era": "ttpd",
+    "difficulty": "easy",
+    "fun_fact": "Fans got a surprise second half just hours after the album's release.",
+    "approved": true
+  },
+  {
+    "question": "At what time did Taylor Swift surprise-release 'The Tortured Poets Department: The Anthology'?",
+    "options": [
+      "2 a.m.",
+      "6 a.m.",
+      "Noon",
+      "Midnight"
+    ],
+    "answer_index": 0,
+    "era": "ttpd",
+    "difficulty": "medium",
+    "fun_fact": "It doubled the album's length just hours after the initial release.",
+    "approved": true
+  },
+  {
+    "question": "Which award did 'Fearless' win in 2010 that made Taylor Swift the youngest-ever recipient at the time?",
+    "options": [
+      "Grammy Album of the Year",
+      "Grammy Record of the Year",
+      "Grammy Song of the Year",
+      "Grammy Best New Artist"
+    ],
+    "answer_index": 0,
+    "era": "fearless",
+    "difficulty": "hard",
+    "fun_fact": "At 20 years old, she became the youngest Album of the Year winner in Grammy history at that time.",
+    "approved": true
   }
 ]
