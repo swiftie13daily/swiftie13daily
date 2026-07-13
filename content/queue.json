@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Taylor Swift music video features a cast of celebrity friends in an action movie-style storyline?",
-    "options": [
-      "Look What You Made Me Do",
-      "Bad Blood",
-      "You Need to Calm Down",
-      "...Ready for It?"
-    ],
-    "answer_index": 1,
-    "era": "1989",
-    "difficulty": "easy",
-    "fun_fact": "The 'Bad Blood' video features Selena Gomez, Cara Delevingne, Kendall Jenner, and over a dozen more celebrities in elaborate action personas.",
-    "approved": true
-  },
-  {
     "question": "Which artist is credited as a featured vocalist on 'Snow On The Beach' from Midnights?",
     "options": [
       "Lana Del Rey",

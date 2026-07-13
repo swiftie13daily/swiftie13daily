@@ -888,5 +888,20 @@
     "fun_fact": "The original Red had 16 standard tracks. The re-recorded version added 13 vault tracks plus the 10-minute 'All Too Well', bringing it to 30.",
     "approved": true,
     "posted": "2026-07-12"
+  },
+  {
+    "question": "Which Taylor Swift music video features a cast of celebrity friends in an action movie-style storyline?",
+    "options": [
+      "Look What You Made Me Do",
+      "Bad Blood",
+      "You Need to Calm Down",
+      "...Ready for It?"
+    ],
+    "answer_index": 1,
+    "era": "1989",
+    "difficulty": "easy",
+    "fun_fact": "The 'Bad Blood' video features Selena Gomez, Cara Delevingne, Kendall Jenner, and over a dozen more celebrities in elaborate action personas.",
+    "approved": true,
+    "posted": "2026-07-13"
   }
 ]
