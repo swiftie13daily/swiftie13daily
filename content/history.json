@@ -903,5 +903,20 @@
     "fun_fact": "The 'Bad Blood' video features Selena Gomez, Cara Delevingne, Kendall Jenner, and over a dozen more celebrities in elaborate action personas.",
     "approved": true,
     "posted": "2026-07-13"
+  },
+  {
+    "question": "Which artist is credited as a featured vocalist on 'Snow On The Beach' from Midnights?",
+    "options": [
+      "Lana Del Rey",
+      "Phoebe Bridgers",
+      "Florence Welch",
+      "HAIM"
+    ],
+    "answer_index": 0,
+    "era": "midnights",
+    "difficulty": "easy",
+    "fun_fact": "Fans had speculated about a collaboration between the two artists for years.",
+    "approved": true,
+    "posted": "2026-07-14"
   }
 ]

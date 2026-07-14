@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which artist is credited as a featured vocalist on 'Snow On The Beach' from Midnights?",
-    "options": [
-      "Lana Del Rey",
-      "Phoebe Bridgers",
-      "Florence Welch",
-      "HAIM"
-    ],
-    "answer_index": 0,
-    "era": "midnights",
-    "difficulty": "easy",
-    "fun_fact": "Fans had speculated about a collaboration between the two artists for years.",
-    "approved": true
-  },
-  {
     "question": "What is the final track on the 'Lover' album?",
     "options": [
       "Daylight",
