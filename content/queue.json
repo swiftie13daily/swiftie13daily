@@ -1,19 +1,5 @@
 [
   {
-    "question": "What is the final track on the 'Lover' album?",
-    "options": [
-      "Daylight",
-      "Lover",
-      "Afterglow",
-      "False God"
-    ],
-    "answer_index": 0,
-    "era": "lover",
-    "difficulty": "medium",
-    "fun_fact": "It closes the album on a hopeful, romantic note.",
-    "approved": true
-  },
-  {
     "question": "Which reputation ballad became known as the tour's emotional closing moment?",
     "options": [
       "New Year's Day",

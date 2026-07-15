@@ -918,5 +918,20 @@
     "fun_fact": "Fans had speculated about a collaboration between the two artists for years.",
     "approved": true,
     "posted": "2026-07-14"
+  },
+  {
+    "question": "What is the final track on the 'Lover' album?",
+    "options": [
+      "Daylight",
+      "Lover",
+      "Afterglow",
+      "False God"
+    ],
+    "answer_index": 0,
+    "era": "lover",
+    "difficulty": "medium",
+    "fun_fact": "It closes the album on a hopeful, romantic note.",
+    "approved": true,
+    "posted": "2026-07-15"
   }
 ]
