@@ -933,5 +933,20 @@
     "fun_fact": "It closes the album on a hopeful, romantic note.",
     "approved": true,
     "posted": "2026-07-15"
+  },
+  {
+    "question": "Which reputation ballad became known as the tour's emotional closing moment?",
+    "options": [
+      "New Year's Day",
+      "Delicate",
+      "Getaway Car",
+      "Call It What You Want"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "hard",
+    "fun_fact": "It's a stripped-down piano song about love after the party ends.",
+    "approved": true,
+    "posted": "2026-07-16"
   }
 ]

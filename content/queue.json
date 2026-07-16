@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which reputation ballad became known as the tour's emotional closing moment?",
-    "options": [
-      "New Year's Day",
-      "Delicate",
-      "Getaway Car",
-      "Call It What You Want"
-    ],
-    "answer_index": 0,
-    "era": "reputation",
-    "difficulty": "hard",
-    "fun_fact": "It's a stripped-down piano song about love after the party ends.",
-    "approved": true
-  },
-  {
     "question": "How many bonus tracks were added in the 'Midnights (3am Edition)'?",
     "options": [
       "7",
