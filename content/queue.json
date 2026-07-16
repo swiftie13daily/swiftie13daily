@@ -1,5 +1,33 @@
 [
   {
+    "question": "How many bonus tracks were added in the 'Midnights (3am Edition)'?",
+    "options": [
+      "7",
+      "5",
+      "9",
+      "12"
+    ],
+    "answer_index": 0,
+    "era": "midnights",
+    "difficulty": "medium",
+    "fun_fact": "The 3am Edition dropped the same day as the original album, at 3 a.m.",
+    "approved": true
+  },
+  {
+    "question": "The Reputation Stadium Tour concert film was released exclusively on which streaming platform?",
+    "options": [
+      "Netflix",
+      "Hulu",
+      "Disney+",
+      "Amazon Prime"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "easy",
+    "fun_fact": "It dropped on New Year's Eve 2018.",
+    "approved": true
+  },
+  {
     "question": "'folklore' won which award at the 2021 Grammy Awards?",
     "options": [
       "Album of the Year",
