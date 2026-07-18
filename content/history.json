@@ -948,5 +948,20 @@
     "fun_fact": "It's a stripped-down piano song about love after the party ends.",
     "approved": true,
     "posted": "2026-07-16"
+  },
+  {
+    "question": "How many bonus tracks were added in the 'Midnights (3am Edition)'?",
+    "options": [
+      "7",
+      "5",
+      "9",
+      "12"
+    ],
+    "answer_index": 0,
+    "era": "midnights",
+    "difficulty": "medium",
+    "fun_fact": "The 3am Edition dropped the same day as the original album, at 3 a.m.",
+    "approved": true,
+    "posted": "2026-07-18"
   }
 ]
