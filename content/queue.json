@@ -1,19 +1,5 @@
 [
   {
-    "question": "The Reputation Stadium Tour concert film was released exclusively on which streaming platform?",
-    "options": [
-      "Netflix",
-      "Hulu",
-      "Disney+",
-      "Amazon Prime"
-    ],
-    "answer_index": 0,
-    "era": "reputation",
-    "difficulty": "easy",
-    "fun_fact": "It dropped on New Year's Eve 2018.",
-    "approved": true
-  },
-  {
     "question": "'folklore' won which award at the 2021 Grammy Awards?",
     "options": [
       "Album of the Year",
