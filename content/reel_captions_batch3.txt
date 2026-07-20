@@ -1,0 +1,75 @@
+# Fill in a caption below each CAPTION: line.
+# Keep the FILE:/DAY:/CAPTION: labels and the ===== separators as they are —
+# don't reorder or delete entries, just type your caption text in.
+
+FILE: version-guess-mine 20-07-26.mp4
+DAY: Monday, July 20
+CAPTION:
+See if you can guess the version of this audio
+
+#taylorswift #swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: red tour 21-07-26.mp4
+DAY: Tuesday, July 21
+CAPTION:
+See if you can guess the #taylorswift tour by its opening moment
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: pickonealbum-fearless-speaknow  22-07-26.mp4
+DAY: Wednesday, July 22
+CAPTION:
+Pick one #taylorswift album
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: beautiful ghosts  23-07-26.mp4
+DAY: Thursday, July 23
+CAPTION:
+See if you can guess #taylorswift song featured in this movie
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: highers spotify blank space  24-07-26.mp4
+DAY: Friday, July 24
+CAPTION:
+See if you can guess which of these #taylorswift has highest spotify streams
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: 22  25-07-26.mp4
+DAY: Saturday, July 25
+CAPTION:
+See if you can guess #taylorswift song by this outfit
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: longersong-exile  26-07-26.mp4
+DAY: Sunday, July 26
+CAPTION:
+See if you can guess which #taylorswift is the longest
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
+
+FILE: pickone-getawaycar-dontblameme  27-07-26.mp4
+DAY: Monday, July 27
+CAPTION:
+Pick one #taylorswift song
+
+#swifties #swiftietok #erastour #swiftiequiz
+
+=====
