@@ -1,19 +1,5 @@
 [
   {
-    "question": "'folklore' won which award at the 2021 Grammy Awards?",
-    "options": [
-      "Album of the Year",
-      "Record of the Year",
-      "Best New Artist",
-      "Song of the Year"
-    ],
-    "answer_index": 0,
-    "era": "folklore",
-    "difficulty": "medium",
-    "fun_fact": "It made Taylor Swift the first woman to win that Grammy category three times.",
-    "approved": true
-  },
-  {
     "question": "Where did 'Speak Now' debut on the Billboard 200 chart?",
     "options": [
       "Number 1",

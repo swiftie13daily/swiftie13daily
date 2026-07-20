@@ -978,5 +978,20 @@
     "fun_fact": "It dropped on New Year's Eve 2018.",
     "approved": true,
     "posted": "2026-07-19"
+  },
+  {
+    "question": "'folklore' won which award at the 2021 Grammy Awards?",
+    "options": [
+      "Album of the Year",
+      "Record of the Year",
+      "Best New Artist",
+      "Song of the Year"
+    ],
+    "answer_index": 0,
+    "era": "folklore",
+    "difficulty": "medium",
+    "fun_fact": "It made Taylor Swift the first woman to win that Grammy category three times.",
+    "approved": true,
+    "posted": "2026-07-20"
   }
 ]
