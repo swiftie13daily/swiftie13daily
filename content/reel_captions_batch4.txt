@@ -1,0 +1,35 @@
+# Fill in a caption below each CAPTION: line.
+# Keep the FILE:/DAY:/CAPTION: labels and the ===== separators as they are —
+# don't reorder or delete entries, just type your caption text in.
+
+FILE: margorie.mp4
+DAY: Tuesday, July 28
+CAPTION:
+See if you can unscramble the #taylorswift song
+
+#swifties #swiftietok #erastour #swiftiequiz
+=====
+
+FILE: soon you'll get better.mp4
+DAY: Wednesday, July 29
+CAPTION:
+See if you can guess this #taylorswift song by the collaborator
+
+#swifties #swiftietok #erastour #swiftiequiz
+=====
+
+FILE: speak now tour.mp4
+DAY: Thursday, July 30
+CAPTION:
+See if you can guess this #taylorswift tour by these visuals
+
+#swifties #swiftietok #erastour #swiftiequiz
+=====
+
+FILE: white horse.mp4
+DAY: Friday, July 31
+CAPTION:
+See if you can finish this #taylorswift lyric
+
+#swifties #swiftietok #erastour #swiftiequiz
+=====
