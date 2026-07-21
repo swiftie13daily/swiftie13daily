@@ -1,19 +1,5 @@
 [
   {
-    "question": "Where did 'Speak Now' debut on the Billboard 200 chart?",
-    "options": [
-      "Number 1",
-      "Number 3",
-      "Number 5",
-      "Number 10"
-    ],
-    "answer_index": 0,
-    "era": "speak_now",
-    "difficulty": "easy",
-    "fun_fact": "It sold over a million copies in its very first week.",
-    "approved": true
-  },
-  {
     "question": "How much advance notice did Taylor Swift give fans before releasing 'folklore'?",
     "options": [
       "Less than 24 hours",

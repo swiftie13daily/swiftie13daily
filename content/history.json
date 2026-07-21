@@ -993,5 +993,20 @@
     "fun_fact": "It made Taylor Swift the first woman to win that Grammy category three times.",
     "approved": true,
     "posted": "2026-07-20"
+  },
+  {
+    "question": "Where did 'Speak Now' debut on the Billboard 200 chart?",
+    "options": [
+      "Number 1",
+      "Number 3",
+      "Number 5",
+      "Number 10"
+    ],
+    "answer_index": 0,
+    "era": "speak_now",
+    "difficulty": "easy",
+    "fun_fact": "It sold over a million copies in its very first week.",
+    "approved": true,
+    "posted": "2026-07-21"
   }
 ]
