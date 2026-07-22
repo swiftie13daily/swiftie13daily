@@ -1,19 +1,5 @@
 [
   {
-    "question": "How much advance notice did Taylor Swift give fans before releasing 'folklore'?",
-    "options": [
-      "Less than 24 hours",
-      "One week",
-      "One month",
-      "Three months"
-    ],
-    "answer_index": 0,
-    "era": "folklore",
-    "difficulty": "easy",
-    "fun_fact": "The surprise announcement stunned fans who had no idea an album was coming.",
-    "approved": true
-  },
-  {
     "question": "Which two artists feature on the 'reputation' single 'End Game'?",
     "options": [
       "Ed Sheeran and Future",
