@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which two artists feature on the 'reputation' single 'End Game'?",
-    "options": [
-      "Ed Sheeran and Future",
-      "Drake and Rihanna",
-      "Bruno Mars and Cardi B",
-      "The Weeknd and Doja Cat"
-    ],
-    "answer_index": 0,
-    "era": "reputation",
-    "difficulty": "medium",
-    "fun_fact": "It was one of the few reputation tracks with outside guest features.",
-    "approved": true
-  },
-  {
     "question": "How many brand-new 'From the Vault' tracks were added to 'Speak Now (Taylor's Version)'?",
     "options": [
       "4",
