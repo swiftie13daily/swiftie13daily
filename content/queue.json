@@ -1,19 +1,5 @@
 [
   {
-    "question": "How many brand-new 'From the Vault' tracks were added to 'Speak Now (Taylor's Version)'?",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "10"
-    ],
-    "answer_index": 1,
-    "era": "speak_now",
-    "difficulty": "medium",
-    "fun_fact": "The vault tracks included collaborations with Fall Out Boy and Hayley Williams.",
-    "approved": true
-  },
-  {
     "question": "At what time did Taylor Swift surprise-release 'The Tortured Poets Department: The Anthology'?",
     "options": [
       "2 a.m.",
