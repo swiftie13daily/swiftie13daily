@@ -1053,5 +1053,20 @@
     "fun_fact": "The vault tracks included collaborations with Fall Out Boy and Hayley Williams.",
     "approved": true,
     "posted": "2026-07-24"
+  },
+  {
+    "question": "At what time did Taylor Swift surprise-release 'The Tortured Poets Department: The Anthology'?",
+    "options": [
+      "2 a.m.",
+      "6 a.m.",
+      "Noon",
+      "Midnight"
+    ],
+    "answer_index": 0,
+    "era": "ttpd",
+    "difficulty": "medium",
+    "fun_fact": "It doubled the album's length just hours after the initial release.",
+    "approved": true,
+    "posted": "2026-07-25"
   }
 ]
