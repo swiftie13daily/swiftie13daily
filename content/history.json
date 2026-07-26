@@ -1068,5 +1068,20 @@
     "fun_fact": "It doubled the album's length just hours after the initial release.",
     "approved": true,
     "posted": "2026-07-25"
+  },
+  {
+    "question": "Which country group duets with Taylor Swift on 'Soon You'll Get Better'?",
+    "options": [
+      "The Chicks",
+      "Little Big Town",
+      "Lady A",
+      "Sugarland"
+    ],
+    "answer_index": 0,
+    "era": "lover",
+    "difficulty": "hard",
+    "fun_fact": "The song was written about a family member's health struggles.",
+    "approved": true,
+    "posted": "2026-07-26"
   }
 ]
