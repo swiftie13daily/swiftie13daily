@@ -1083,5 +1083,20 @@
     "fun_fact": "The song was written about a family member's health struggles.",
     "approved": true,
     "posted": "2026-07-26"
+  },
+  {
+    "question": "Which Scottish singer co-wrote and features on the 'Red' track 'The Last Time'?",
+    "options": [
+      "Gary Lightbody",
+      "Ed Sheeran",
+      "Justin Vernon",
+      "Brendon Urie"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "medium",
+    "fun_fact": "Gary Lightbody is best known as the frontman of the band Snow Patrol.",
+    "approved": true,
+    "posted": "2026-07-27"
   }
 ]
