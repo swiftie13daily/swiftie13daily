@@ -1098,5 +1098,20 @@
     "fun_fact": "Gary Lightbody is best known as the frontman of the band Snow Patrol.",
     "approved": true,
     "posted": "2026-07-27"
+  },
+  {
+    "question": "How did Taylor Swift describe 'evermore' in relation to 'folklore'?",
+    "options": [
+      "Its sister album",
+      "A remix collection",
+      "A live album",
+      "A greatest hits set"
+    ],
+    "answer_index": 0,
+    "era": "evermore",
+    "difficulty": "easy",
+    "fun_fact": "evermore arrived less than five months after folklore, in December 2020.",
+    "approved": true,
+    "posted": "2026-07-28"
   }
 ]
