@@ -1113,5 +1113,20 @@
     "fun_fact": "evermore arrived less than five months after folklore, in December 2020.",
     "approved": true,
     "posted": "2026-07-28"
+  },
+  {
+    "question": "Which Fearless single won Taylor Swift her first Grammy for Best Country Song?",
+    "options": [
+      "White Horse",
+      "Love Story",
+      "Fifteen",
+      "You Belong with Me"
+    ],
+    "answer_index": 0,
+    "era": "fearless",
+    "difficulty": "medium",
+    "fun_fact": "White Horse took home the award at the 2009 Grammy Awards.",
+    "approved": true,
+    "posted": "2026-07-29"
   }
 ]

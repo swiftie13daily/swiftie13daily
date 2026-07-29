@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Fearless single won Taylor Swift her first Grammy for Best Country Song?",
-    "options": [
-      "White Horse",
-      "Love Story",
-      "Fifteen",
-      "You Belong with Me"
-    ],
-    "answer_index": 0,
-    "era": "fearless",
-    "difficulty": "medium",
-    "fun_fact": "White Horse took home the award at the 2009 Grammy Awards.",
-    "approved": true
-  },
-  {
     "question": "Which award did 'Fearless' win in 2010 that made Taylor Swift the youngest-ever recipient at the time?",
     "options": [
       "Grammy Album of the Year",
