@@ -1128,5 +1128,20 @@
     "fun_fact": "White Horse took home the award at the 2009 Grammy Awards.",
     "approved": true,
     "posted": "2026-07-29"
+  },
+  {
+    "question": "Which award did 'Fearless' win in 2010 that made Taylor Swift the youngest-ever recipient at the time?",
+    "options": [
+      "Grammy Album of the Year",
+      "Grammy Record of the Year",
+      "Grammy Song of the Year",
+      "Grammy Best New Artist"
+    ],
+    "answer_index": 0,
+    "era": "fearless",
+    "difficulty": "hard",
+    "fun_fact": "At 20 years old, she became the youngest Album of the Year winner in Grammy history at that time.",
+    "approved": true,
+    "posted": "2026-07-30"
   }
 ]
