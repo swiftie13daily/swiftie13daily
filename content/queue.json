@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which song from Taylor Swift's debut album is about a boy who chose someone else?",
-    "options": [
-      "Teardrops on My Guitar",
-      "Tim McGraw",
-      "Picture to Burn",
-      "A Place in this World"
-    ],
-    "answer_index": 0,
-    "era": "debut",
-    "difficulty": "easy",
-    "fun_fact": "It was inspired by a real classmate who didn't realize the song was about him until years later.",
-    "approved": true
-  },
-  {
     "question": "What made 'Speak Now' unique among Taylor Swift's early albums?",
     "options": [
       "She wrote every song entirely alone",
