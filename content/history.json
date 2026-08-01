@@ -1158,5 +1158,20 @@
     "fun_fact": "It was inspired by a real classmate who didn't realize the song was about him until years later.",
     "approved": true,
     "posted": "2026-07-31"
+  },
+  {
+    "question": "What made 'Speak Now' unique among Taylor Swift's early albums?",
+    "options": [
+      "She wrote every song entirely alone",
+      "It was recorded live",
+      "It had no singles released",
+      "It featured only covers"
+    ],
+    "answer_index": 0,
+    "era": "speak_now",
+    "difficulty": "medium",
+    "fun_fact": "No co-writers appear anywhere in the album's songwriting credits.",
+    "approved": true,
+    "posted": "2026-08-01"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "question": "What made 'Speak Now' unique among Taylor Swift's early albums?",
-    "options": [
-      "She wrote every song entirely alone",
-      "It was recorded live",
-      "It had no singles released",
-      "It featured only covers"
-    ],
-    "answer_index": 0,
-    "era": "speak_now",
-    "difficulty": "medium",
-    "fun_fact": "No co-writers appear anywhere in the album's songwriting credits.",
-    "approved": true
-  },
-  {
     "question": "What type of release is Taylor Swift's 'Miss Americana'?",
     "options": [
       "A Netflix documentary",
