@@ -1173,5 +1173,20 @@
     "fun_fact": "No co-writers appear anywhere in the album's songwriting credits.",
     "approved": true,
     "posted": "2026-08-01"
+  },
+  {
+    "question": "What type of release is Taylor Swift's 'Miss Americana'?",
+    "options": [
+      "A Netflix documentary",
+      "A concert film",
+      "A music video",
+      "A podcast series"
+    ],
+    "answer_index": 0,
+    "era": "lover",
+    "difficulty": "medium",
+    "fun_fact": "It premiered at the Sundance Film Festival in January 2020.",
+    "approved": true,
+    "posted": "2026-08-02"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "question": "What type of release is Taylor Swift's 'Miss Americana'?",
-    "options": [
-      "A Netflix documentary",
-      "A concert film",
-      "A music video",
-      "A podcast series"
-    ],
-    "answer_index": 0,
-    "era": "lover",
-    "difficulty": "medium",
-    "fun_fact": "It premiered at the Sundance Film Festival in January 2020.",
-    "approved": true
-  },
-  {
     "question": "Taylor Swift described Midnights as chronicling how many sleepless nights scattered across her life?",
     "options": [
       "13",
