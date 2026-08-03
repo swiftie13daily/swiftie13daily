@@ -1188,5 +1188,20 @@
     "fun_fact": "It premiered at the Sundance Film Festival in January 2020.",
     "approved": true,
     "posted": "2026-08-02"
+  },
+  {
+    "question": "Taylor Swift described Midnights as chronicling how many sleepless nights scattered across her life?",
+    "options": [
+      "13",
+      "7",
+      "21",
+      "31"
+    ],
+    "answer_index": 0,
+    "era": "midnights",
+    "difficulty": "hard",
+    "fun_fact": "The number 13 has long been considered Taylor's lucky number.",
+    "approved": true,
+    "posted": "2026-08-03"
   }
 ]
