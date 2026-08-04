@@ -1203,5 +1203,20 @@
     "fun_fact": "The number 13 has long been considered Taylor's lucky number.",
     "approved": true,
     "posted": "2026-08-03"
+  },
+  {
+    "question": "Which artist features on the 'Red (Taylor's Version)' vault track 'I Bet You Think About Me'?",
+    "options": [
+      "Chris Stapleton",
+      "Keith Urban",
+      "Vince Gill",
+      "Maren Morris"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "hard",
+    "fun_fact": "The country-tinged vault track leans into Red's original Nashville roots.",
+    "approved": true,
+    "posted": "2026-08-04"
   }
 ]
