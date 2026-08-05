@@ -1,19 +1,5 @@
 [
   {
-    "question": "How many tracks were on the original standard edition of 'The Tortured Poets Department'?",
-    "options": [
-      "16",
-      "20",
-      "24",
-      "31"
-    ],
-    "answer_index": 0,
-    "era": "ttpd",
-    "difficulty": "easy",
-    "fun_fact": "Fans got a surprise second half just hours after the album's release.",
-    "approved": true
-  },
-  {
     "question": "Which group features on the 'evermore' track 'no body, no crime'?",
     "options": [
       "HAIM",
