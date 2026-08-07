@@ -1233,5 +1233,20 @@
     "fun_fact": "Fans got a surprise second half just hours after the album's release.",
     "approved": true,
     "posted": "2026-08-05"
+  },
+  {
+    "question": "Which group features on the 'evermore' track 'no body, no crime'?",
+    "options": [
+      "HAIM",
+      "The Chicks",
+      "Bon Iver",
+      "Phoebe Bridgers"
+    ],
+    "answer_index": 0,
+    "era": "evermore",
+    "difficulty": "medium",
+    "fun_fact": "The murder-mystery style song became an unexpected fan favorite.",
+    "approved": true,
+    "posted": "2026-08-07"
   }
 ]
