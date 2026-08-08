@@ -1248,5 +1248,20 @@
     "fun_fact": "The murder-mystery style song became an unexpected fan favorite.",
     "approved": true,
     "posted": "2026-08-07"
+  },
+  {
+    "question": "Which upbeat 'Red' single has a music video of Taylor and friends baking and dancing at home?",
+    "options": [
+      "22",
+      "Begin Again",
+      "I Knew You Were Trouble",
+      "We Are Never Ever Getting Back Together"
+    ],
+    "answer_index": 0,
+    "era": "red",
+    "difficulty": "easy",
+    "fun_fact": "The song became an anthem about feeling every emotion at once.",
+    "approved": true,
+    "posted": "2026-08-08"
   }
 ]

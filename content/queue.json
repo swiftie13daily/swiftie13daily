@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which upbeat 'Red' single has a music video of Taylor and friends baking and dancing at home?",
-    "options": [
-      "22",
-      "Begin Again",
-      "I Knew You Were Trouble",
-      "We Are Never Ever Getting Back Together"
-    ],
-    "answer_index": 0,
-    "era": "red",
-    "difficulty": "easy",
-    "fun_fact": "The song became an anthem about feeling every emotion at once.",
-    "approved": true
-  },
-  {
     "question": "'reputation' was the best-selling album in the US for which year?",
     "options": [
       "2017",
