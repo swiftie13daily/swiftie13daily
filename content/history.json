@@ -1263,5 +1263,20 @@
     "fun_fact": "The song became an anthem about feeling every emotion at once.",
     "approved": true,
     "posted": "2026-08-08"
+  },
+  {
+    "question": "'reputation' was the best-selling album in the US for which year?",
+    "options": [
+      "2017",
+      "2015",
+      "2019",
+      "2013"
+    ],
+    "answer_index": 0,
+    "era": "reputation",
+    "difficulty": "hard",
+    "fun_fact": "It topped the Billboard 200 for multiple weeks that year.",
+    "approved": true,
+    "posted": "2026-08-09"
   }
 ]
