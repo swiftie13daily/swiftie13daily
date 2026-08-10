@@ -1,19 +1,5 @@
 [
   {
-    "question": "Which Fearless song is about feeling invisible to a crush who's dating someone else?",
-    "options": [
-      "You Belong with Me",
-      "Fifteen",
-      "Hey Stephen",
-      "The Best Day"
-    ],
-    "answer_index": 0,
-    "era": "fearless",
-    "difficulty": "easy",
-    "fun_fact": "Its music video won Best Female Video at the 2009 VMAs.",
-    "approved": true
-  },
-  {
     "question": "Fans have a theory that one track number on an album is always the most emotionally vulnerable song. Which number?",
     "options": [
       "Track 5",

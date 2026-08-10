@@ -1278,5 +1278,20 @@
     "fun_fact": "It topped the Billboard 200 for multiple weeks that year.",
     "approved": true,
     "posted": "2026-08-09"
+  },
+  {
+    "question": "Which Fearless song is about feeling invisible to a crush who's dating someone else?",
+    "options": [
+      "You Belong with Me",
+      "Fifteen",
+      "Hey Stephen",
+      "The Best Day"
+    ],
+    "answer_index": 0,
+    "era": "fearless",
+    "difficulty": "easy",
+    "fun_fact": "Its music video won Best Female Video at the 2009 VMAs.",
+    "approved": true,
+    "posted": "2026-08-10"
   }
 ]
