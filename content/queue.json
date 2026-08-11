@@ -1,19 +1,5 @@
 [
   {
-    "question": "Fans have a theory that one track number on an album is always the most emotionally vulnerable song. Which number?",
-    "options": [
-      "Track 5",
-      "Track 3",
-      "Track 7",
-      "Track 10"
-    ],
-    "answer_index": 0,
-    "era": "red",
-    "difficulty": "hard",
-    "fun_fact": "The 'track five' theory has become a beloved piece of Swiftie fan lore.",
-    "approved": true
-  },
-  {
     "question": "Which artist joins Taylor Swift on the 'Lover' duet 'ME!'?",
     "options": [
       "Brendon Urie",
