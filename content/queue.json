@@ -1,16 +1,1 @@
-[
-  {
-    "question": "Which artist joins Taylor Swift on the 'Lover' duet 'ME!'?",
-    "options": [
-      "Brendon Urie",
-      "Shawn Mendes",
-      "Zayn Malik",
-      "Niall Horan"
-    ],
-    "answer_index": 0,
-    "era": "lover",
-    "difficulty": "easy",
-    "fun_fact": "Brendon Urie is the frontman of Panic! At The Disco.",
-    "approved": true
-  }
-]
+[]
